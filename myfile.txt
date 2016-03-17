@@ -1,0 +1,1920 @@
+The 1 result title: Dirt Dog
+categories: ["Hot Dogs","hotdog"]
+Rating: 4.5
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/i6Mb8AQ2QHD6iEzRo4OSFQ/ms.jpg
+Address: ["2528 S Figueroa St","University Park","Los Angeles, CA 90007"]
+Phone: 2137491813
+======================================
+
+The 2 result title: Revolutionario: North African Tacos
+categories: ["African","african"]
+Rating: 4.5
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/fEQXtvQAdla5Pg1q4CSz9w/ms.jpg
+Address: ["1436 W Jefferson Blvd","Ste 70","Exposition Park","Los Angeles, CA 90007"]
+Phone: 4242233526
+======================================
+
+The 3 result title: Monarca Pasta & Grill
+categories: ["Italian","italian"]
+Rating: 4.5
+image URL: https://s3-media2.fl.yelpcdn.com/bphoto/kNSXPcfsH9NCz7Ps9_WUNQ/ms.jpg
+Address: ["2703 S Vermont Ave","Adams Normandie","Los Angeles, CA 90007"]
+Phone: 3237318149
+======================================
+
+The 4 result title: Bacaro LA
+categories: ["Italian","italian"]
+Rating: 4.0
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/zS8Udaf_et5jliZ65s1Jtg/ms.jpg
+Address: ["2308 S Union Ave","University Park","Los Angeles, CA 90007"]
+Phone: 2137487205
+======================================
+
+The 5 result title: Chichen Itza Restaurant
+categories: ["Mexican","mexican"]
+Rating: 4.5
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/IuBHQVOTHfo2_7REPPHdLQ/ms.jpg
+Address: ["3655 S Grand Ave","Ste C6","Historic South Central","Los Angeles, CA 90007"]
+Phone: 2137411075
+======================================
+
+The 6 result title: Jacks N Joe
+categories: ["Breakfast & Brunch","breakfast_brunch"]
+Rating: 4.0
+image URL: https://s3-media2.fl.yelpcdn.com/bphoto/tsPJHqq098t3Tqrwg8I4Mg/ms.jpg
+Address: ["2498 S Figueroa St","University Park","Los Angeles, CA 90007"]
+Phone: 2137484565
+======================================
+
+The 7 result title: Himalayan House
+categories: ["Indian","indpak"]
+Rating: 4.5
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/gEcjD8fG5PO012hv_sfMeA/ms.jpg
+Address: ["1277 W Jefferson Blvd","Adams Normandie","Los Angeles, CA 90007"]
+Phone: 3237669775
+======================================
+
+The 8 result title: California Gogi Grill
+categories: ["Korean","korean"]
+Rating: 4.0
+image URL: https://s3-media2.fl.yelpcdn.com/bphoto/y3hhOcMbPVM72N0haTFYYQ/ms.jpg
+Address: ["3742 S Figueroa St","Exposition Park","Los Angeles, CA 90007"]
+Phone: 2137441910
+======================================
+
+The 9 result title: Food Haus Caf¨¦
+categories: ["Cafes","cafes"]
+Rating: 4.0
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/Oi5MygpZVWhqyoDgSi4VLg/ms.jpg
+Address: ["2106 S Olive St","Historic South Central","Los Angeles, CA 90007"]
+Phone: 2137410007
+======================================
+
+The 10 result title: Caveman Kitchen
+categories: ["Latin American","latin"]
+Rating: 4.0
+image URL: https://s3-media2.fl.yelpcdn.com/bphoto/UBKtuT099b7cONL3tQOytw/ms.jpg
+Address: ["2215 S Vermont Ave","Adams Normandie","Los Angeles, CA 90007"]
+Phone: 3237373717
+======================================
+
+The 11 result title: Ebaes
+categories: ["Tapas\/Small Plates","tapasmallplates"]
+Rating: 4.0
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/WbAcFa_4k4R2QYbOvxeutQ/ms.jpg
+Address: ["2314 S Union Ave","University Park","Los Angeles, CA 90007"]
+Phone: 2137476888
+======================================
+
+The 12 result title: Nature's Brew
+categories: ["Coffee & Tea","coffee"]
+Rating: 4.0
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/AApXUmYHhNguUkH54v_YcQ/ms.jpg
+Address: ["2316 S Union Ave","University Park","Los Angeles, CA 90007"]
+Phone: 2137419393
+======================================
+
+The 13 result title: Figueroa Philly
+categories: ["American (Traditional)","tradamerican"]
+Rating: 4.5
+image URL: https://s3-media1.fl.yelpcdn.com/bphoto/D5yrwPplpzwXPjgBF9qFrA/ms.jpg
+Address: ["3850 S Figueroa St","Exposition Park","Los Angeles, CA 90037"]
+Phone: 2137489073
+======================================
+
+The 14 result title: 23rd Street Cafe
+categories: ["Indian","indpak"]
+Rating: 4.0
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/7_XCJ5BP2J1hEr2o8oypag/ms.jpg
+Address: ["936 W 23rd St","University Park","Los Angeles, CA 90007"]
+Phone: 2137491593
+======================================
+
+The 15 result title: Study Hall
+categories: ["American (New)","newamerican"]
+Rating: 4.0
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/3WuAOwyfOfJADqJeF8k13A/ms.jpg
+Address: ["2827 S Hoover St","University Park","Los Angeles, CA 90007"]
+Phone: 2134934363
+======================================
+
+The 16 result title: La Valentina Mexican Grill
+categories: ["Mexican","mexican"]
+Rating: 4.5
+image URL: https://s3-media2.fl.yelpcdn.com/bphoto/KnRqtMyWwGogBHSn4kqFVQ/ms.jpg
+Address: ["2719 Vermont Ave","Adams Normandie","Los Angeles, CA 90007"]
+Phone: 3237344071
+======================================
+
+The 17 result title: Olympian Burgers
+categories: ["Burgers","burgers"]
+Rating: 4.0
+image URL: https://s3-media2.fl.yelpcdn.com/bphoto/4AndqL8y1ANNvSJDa0cNjw/ms.jpg
+Address: ["2701 S Vermont Ave","Adams Normandie","Los Angeles, CA 90007"]
+Phone: 3237350599
+======================================
+
+The 18 result title: Jesse's Camarones Restaurant
+categories: ["Seafood","seafood"]
+Rating: 4.5
+image URL: https://s3-media2.fl.yelpcdn.com/bphoto/U5NT_02WcBkOKgok4eRUgw/ms.jpg
+Address: ["1479 W Adams Blvd","Adams Normandie","Los Angeles, CA 90007"]
+Phone: 3237356399
+======================================
+
+The 19 result title: Ignatius Cafe
+categories: ["Coffee & Tea","coffee"]
+Rating: 4.5
+image URL: https://s3-media1.fl.yelpcdn.com/bphoto/y1J7Q6pFn4nK0YcWNKhSiA/ms.jpg
+Address: ["1451 Dana St","Adams Normandie","Los Angeles, CA 90007"]
+Phone: null
+======================================
+
+The 20 result title: Pizza Studio
+categories: ["Pizza","pizza"]
+Rating: 4.5
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/pa7X4Yb1aC0Oz0XTw-HX8Q/ms.jpg
+Address: ["3584 S Figueroa St","University Park","Los Angeles, CA 90007"]
+Phone: 2137636124
+======================================
+
+The 21 result title: Happy Taco
+categories: ["Mexican","mexican"]
+Rating: 4.5
+image URL: https://s3-media2.fl.yelpcdn.com/bphoto/Ko9ziCFfb4kdZK95EYtKvQ/ms.jpg
+Address: ["1309 S Hoover St","Pico-Union","Los Angeles, CA 90006"]
+Phone: 2133841309
+======================================
+
+The 22 result title: The Good Karma Cafe
+categories: ["Cafes","cafes"]
+Rating: 4.5
+image URL: https://s3-media2.fl.yelpcdn.com/bphoto/UXtOfoaz6gFMGuVEgJplZw/ms.jpg
+Address: ["817 W 34th St","University Park","Los Angeles, CA 90089"]
+Phone: 2135319616
+======================================
+
+The 23 result title: Seree's Coffee Shop
+categories: ["Breakfast & Brunch","breakfast_brunch"]
+Rating: 4.5
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/PqUECLFTO41zWGAxv2QRMQ/ms.jpg
+Address: ["2800 S Grand Ave","Historic South Central","Los Angeles, CA 90007"]
+Phone: 2137478233
+======================================
+
+The 24 result title: La Taquiza No 2
+categories: ["Mexican","mexican"]
+Rating: 4.0
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/zWS4VSS1z3tft0-1f0Uu-g/ms.jpg
+Address: ["3009 S Figueroa St","University Park","Los Angeles, CA 90007"]
+Phone: 2137419795
+======================================
+
+The 25 result title: Armando's Lunch Truck
+categories: ["Mexican","mexican"]
+Rating: 4.5
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/9D17KPed7CbLMD0CGkBT7w/ms.jpg
+Address: ["USC's Main Campus","3470 McClintock Ave","University Park","Los Angeles, CA 90089"]
+Phone: 5626502951
+======================================
+
+The 26 result title: Smiles Cafe USC
+categories: ["Coffee & Tea","coffee"]
+Rating: 4.5
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/OeODsf1DX8a6bhYHK3Vj9Q/ms.jpg
+Address: ["844 W 32nd St","University Park","Los Angeles, CA 90007"]
+Phone: null
+======================================
+
+The 27 result title: The Cup
+categories: ["Italian","italian"]
+Rating: 4.0
+image URL: https://s3-media2.fl.yelpcdn.com/bphoto/-Ds3SiQ5p_CcxseFp4i8cA/ms.jpg
+Address: ["3782 S Figueroa St","Exposition Park","Los Angeles, CA 90007"]
+Phone: 2137441233
+======================================
+
+The 28 result title: Dino's Chicken and Burgers
+categories: ["Burgers","burgers"]
+Rating: 4.5
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/qfd-NGkz0QWBitvpGJ8S5w/ms.jpg
+Address: ["2575 W Pico Blvd","Pico-Union","Los Angeles, CA 90006"]
+Phone: 2133803554
+======================================
+
+The 29 result title: La Barca Restaurant
+categories: ["Mexican","mexican"]
+Rating: 3.5
+image URL: https://s3-media2.fl.yelpcdn.com/bphoto/41MHfpO00QxMvUv7mpopWQ/ms.jpg
+Address: ["2414 S Vermont Ave","Adams Normandie","Los Angeles, CA 90007"]
+Phone: 3237356567
+======================================
+
+The 30 result title: Pete's Burgers
+categories: ["American (Traditional)","tradamerican"]
+Rating: 4.0
+image URL: https://s3-media1.fl.yelpcdn.com/bphoto/4bNpYqTO9l5k3SRb0hvZ9g/ms.jpg
+Address: ["2400 S Hoover St","University Park","Los Angeles, CA 90007"]
+Phone: 2137483206
+======================================
+
+The 31 result title: Central Kitchen
+categories: ["Burgers","burgers"]
+Rating: 4.0
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/n1cHEQ_In3vlSHjDBoDlDQ/ms.jpg
+Address: ["325 W Adams Blvd","Historic South Central","Los Angeles, CA 90007"]
+Phone: 2139082400
+======================================
+
+The 32 result title: Lotus
+categories: ["Hookah Bars","hookah_bars"]
+Rating: 4.0
+image URL: https://s3-media1.fl.yelpcdn.com/bphoto/wEPVpFeT_ZwVKZ2IkZtMvQ/ms.jpg
+Address: ["3742 S Flower St","Exposition Park","Los Angeles, CA 90007"]
+Phone: 2134780090
+======================================
+
+The 33 result title: Tacos Perez
+categories: ["American (New)","newamerican"]
+Rating: 4.5
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/zJVnRsmByYRjR6yxZrUP4g/ms.jpg
+Address: ["Adams Blvd and Vermont Blvd","Adams Normandie","Los Angeles, CA 90007"]
+Phone: null
+======================================
+
+The 34 result title: Papa Cristo's
+categories: ["Greek","greek"]
+Rating: 4.5
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/jq-ORXVPKab0nkciZVEhug/ms.jpg
+Address: ["2771 W Pico Blvd","Pico-Union","Los Angeles, CA 90006"]
+Phone: 3237372970
+======================================
+
+The 35 result title: Chick-fil-A
+categories: ["Fast Food","hotdogs"]
+Rating: 4.0
+image URL: https://s3-media1.fl.yelpcdn.com/bphoto/mkf0YZgI5zAs35PVppKoYw/ms.jpg
+Address: ["3758 S Figueroa St","Exposition Park","Los Angeles, CA 90007"]
+Phone: 2137478721
+======================================
+
+The 36 result title: The Briks
+categories: ["African","african"]
+Rating: 4.5
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/UqTSv8ZEoNd6xFzFwuU24Q/ms.jpg
+Address: ["1111 S Hope St","Ste 110","Downtown","Los Angeles, CA 90015"]
+Phone: 2137467766
+======================================
+
+The 37 result title: El Chalateco
+categories: ["Restaurants","restaurants"]
+Rating: 5.0
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/RDAhm4ycFyLAfdaB1mfRSA/ms.jpg
+Address: ["1540 W Adams Boulevard","Adams Normandie","Los Angeles, CA 90007"]
+Phone: 3237334184
+======================================
+
+The 38 result title: Blaze Fast-Fire'd Pizza
+categories: ["Salad","salad"]
+Rating: 4.0
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/TkaNTr2QGRPAMaTdiLY1Eg/ms.jpg
+Address: ["3335 S Figueroa St","University Park","Los Angeles, CA 90007"]
+Phone: 2132220298
+======================================
+
+The 39 result title: Blu Elefant Cafe
+categories: ["Coffee & Tea","coffee"]
+Rating: 4.0
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/LL1gODeP46KEsVnR9krCFA/ms.jpg
+Address: ["2024 W Washington Blvd","Harvard Heights","Los Angeles, CA 90018"]
+Phone: 3236410466
+======================================
+
+The 40 result title: Lemonade
+categories: ["American (New)","newamerican"]
+Rating: 3.5
+image URL: https://s3-media2.fl.yelpcdn.com/bphoto/bFLI_FvpZjYrFh7Y3dpiQw/ms.jpg
+Address: ["3601 Trousdale Pkwy","University Park","Los Angeles, CA 90089"]
+Phone: 2138213491
+======================================
+
+The 41 result title: Taqueria Vista Hermosa
+categories: ["Mexican","mexican"]
+Rating: 4.0
+image URL: https://s3-media2.fl.yelpcdn.com/bphoto/kAL0iGPXXzJvyz0HgDZcMg/ms.jpg
+Address: ["3655 S Grand Ave","Historic South Central","Los Angeles, CA 90007"]
+Phone: 2137411251
+======================================
+
+The 42 result title: La Estrella Mexican Food
+categories: ["Mexican","mexican"]
+Rating: 5.0
+image URL: https://s3-media2.fl.yelpcdn.com/bphoto/-H3iR7tZCNe2H-LeazRzoQ/ms.jpg
+Address: ["2603 S Normandie Ave","Adams Normandie","Los Angeles, CA 90007"]
+Phone: 3235331229
+======================================
+
+The 43 result title: El Grullense Restaurant
+categories: ["Mexican","mexican"]
+Rating: 4.5
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/bm9b8FWChHktg0c6ThFCYw/ms.jpg
+Address: ["2274 W Pico Blvd","Pico-Union","Los Angeles, CA 90006"]
+Phone: 2134879540
+======================================
+
+The 44 result title: Burger Plaza Grill
+categories: ["Burgers","burgers"]
+Rating: 4.5
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/x90dlfW2vWS6t8pAOIavJw/ms.jpg
+Address: ["3655 S Grand Ave","Historic South Central","Los Angeles, CA 90007"]
+Phone: 2137659787
+======================================
+
+The 45 result title: Barcito
+categories: ["Cocktail Bars","cocktailbars"]
+Rating: 4.0
+image URL: https://s3-media2.fl.yelpcdn.com/bphoto/1Jzd23bKdaVlKTsD85M9kg/ms.jpg
+Address: ["403 W 12th St","Downtown","Los Angeles, CA 90015"]
+Phone: 2134151821
+======================================
+
+The 46 result title: King Taco
+categories: ["Mexican","mexican"]
+Rating: 4.0
+image URL: https://s3-media1.fl.yelpcdn.com/bphoto/szD8jlVwfArk91RmsUyCdw/ms.jpg
+Address: ["2020 W Pico Blvd","Pico-Union","Los Angeles, CA 90006"]
+Phone: 2133848115
+======================================
+
+The 47 result title: LA 27
+categories: ["Latin American","latin"]
+Rating: 4.0
+image URL: https://s3-media1.fl.yelpcdn.com/bphoto/jE-hzglQl9ki7Zgx5yLW1w/ms.jpg
+Address: ["1830 W Pico Blvd","Pico-Union","Los Angeles, CA 90189"]
+Phone: 2133872467
+======================================
+
+The 48 result title: California Sushi & Teriyaki
+categories: ["Ethnic Food","ethnicmarkets"]
+Rating: 3.5
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/d5rj4Il-QeMrEcld7TCDrw/ms.jpg
+Address: ["2518 S Figueroa St","University Park","Los Angeles, CA 90007"]
+Phone: 2137471187
+======================================
+
+The 49 result title: Flavors of Thai
+categories: ["Thai","thai"]
+Rating: 4.0
+image URL: https://s3-media2.fl.yelpcdn.com/bphoto/-QMUNfj7fREheGoYcSGvew/ms.jpg
+Address: ["1275 S Union Ave","Pico-Union","Los Angeles, CA 90015"]
+Phone: 2132632535
+======================================
+
+The 50 result title: Mariscos Chalio's
+categories: ["Seafood","seafood"]
+Rating: 4.5
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/kwcAROv-a2VUSinz-Li9hw/ms.jpg
+Address: ["1848 South Bonnie Brae St","Pico-Union","Los Angeles, CA 90006"]
+Phone: null
+======================================
+
+The 51 result title: Dog Haus
+categories: ["Hot Dogs","hotdog"]
+Rating: 3.5
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/FgZIgKxoim3H8WHLLZNMYw/ms.jpg
+Address: ["3335 S Figueroa St","University Park","University Park","Los Angeles, CA 90007"]
+Phone: 2137484287
+======================================
+
+The 52 result title: Impresso
+categories: ["Coffee & Tea","coffee"]
+Rating: 4.5
+image URL: https://s3-media2.fl.yelpcdn.com/bphoto/SAgtKDJJKvwm6j7TuE1Vwg/ms.jpg
+Address: ["1115 S Hope St","Downtown","Los Angeles, CA 90015"]
+Phone: 2137441964
+======================================
+
+The 53 result title: Salad Farm
+categories: ["Sandwiches","sandwiches"]
+Rating: 3.5
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/nIXI0FCNRgHtjOMzr43ysA/ms.jpg
+Address: ["2210 S Figueroa St","Historic South Central","Los Angeles, CA 90007"]
+Phone: 2137483111
+======================================
+
+The 54 result title: Manas Indian Cuisine
+categories: ["Indian","indpak"]
+Rating: 3.5
+image URL: https://s3-media1.fl.yelpcdn.com/bphoto/8P8ITKFIMOVP397dqamfjQ/ms.jpg
+Address: ["2823 S Vermont Ave","Adams Normandie","Los Angeles, CA 90007"]
+Phone: 3237314333
+======================================
+
+The 55 result title: Pasta Roma
+categories: ["Italian","italian"]
+Rating: 3.5
+image URL: https://s3-media2.fl.yelpcdn.com/bphoto/iLBA0IE6bZ2MAQxEqMOTgw/ms.jpg
+Address: ["2827 S Figueroa St","University Park","Los Angeles, CA 90007"]
+Phone: 2137420303
+======================================
+
+The 56 result title: La Flor Blanca Restaurant
+categories: ["Salvadoran","salvadoran"]
+Rating: 3.5
+image URL: https://s3-media1.fl.yelpcdn.com/bphoto/6y5ifXbaFUjiP5zGQCJSjg/ms.jpg
+Address: ["1279 W Jefferson Blvd","Adams Normandie","Los Angeles, CA 90007"]
+Phone: 3237351802
+======================================
+
+The 57 result title: Mariscos Maria's Restaurant
+categories: ["Mexican","mexican"]
+Rating: 3.5
+image URL: https://s3-media2.fl.yelpcdn.com/bphoto/2Z1T1CfPYOVZWEXhorTNfA/ms.jpg
+Address: ["2215  S Vermont Ave","#104","Adams Normandie","Los Angeles, CA 90007"]
+Phone: 3237313108
+======================================
+
+The 58 result title: Made in Brooklyn NY Pizza
+categories: ["Food Trucks","foodtrucks"]
+Rating: 5.0
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/3bjuoLzHBrynxY7X0zEnJw/ms.jpg
+Address: ["924 W Washington Blvd","University Park","Los Angeles, CA 90015"]
+Phone: 3238443642
+======================================
+
+The 59 result title: Five Guys Burgers and Fries
+categories: ["Burgers","burgers"]
+Rating: 3.5
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/mmjNiu9r9sU1Oe-0TRY47g/ms.jpg
+Address: ["530 W 27th St","University Park","Los Angeles, CA 90007"]
+Phone: 2137497710
+======================================
+
+The 60 result title: Cup O' Joy
+categories: ["Coffee & Tea","coffee"]
+Rating: 3.5
+image URL: https://s3-media1.fl.yelpcdn.com/bphoto/3CaMtzt6ZQNi3OOjroMa-g/ms.jpg
+Address: ["3016 S Figueroa St","University Park","Los Angeles, CA 90007"]
+Phone: 2137458569
+======================================
+
+The 61 result title: Mi Flor Blanca
+categories: ["Mexican","mexican"]
+Rating: 4.0
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/xpP0AzdWTyc0LqjjNOj3Ng/ms.jpg
+Address: ["2306 S Union Ave","University Park","Los Angeles, CA 90007"]
+Phone: 2137453003
+======================================
+
+The 62 result title: Azla
+categories: ["Ethiopian","ethiopian"]
+Rating: 4.5
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/W33wcren8A2q5BbadS2xdg/ms.jpg
+Address: ["3655 S Grand Ave","Ste C2","Historic South Central","Los Angeles, CA 90007"]
+Phone: 2137457455
+======================================
+
+The 63 result title: Bella Pita
+categories: ["Mediterranean","mediterranean"]
+Rating: 3.5
+image URL: https://s3-media1.fl.yelpcdn.com/bphoto/ldWfhAdmn_zU-QMI9rc6rw/ms.jpg
+Address: ["3013 S Figueroa St","University Park","Los Angeles, CA 90007"]
+Phone: 2137441136
+======================================
+
+The 64 result title: Buddha Bing
+categories: ["Food Trucks","foodtrucks"]
+Rating: 4.0
+image URL: https://s3-media1.fl.yelpcdn.com/bphoto/fscmhpOFHuu7UOjx-6h8SA/ms.jpg
+Address: ["University Park","Los Angeles, CA 90012"]
+Phone: 2135388806
+======================================
+
+The 65 result title: El Parian Restaurant
+categories: ["Mexican","mexican"]
+Rating: 4.0
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/Azz4s_MO84kTkeqpeIMD0A/ms.jpg
+Address: ["1528 W Pico Blvd","Pico-Union","Los Angeles, CA 90015"]
+Phone: 2133867361
+======================================
+
+The 66 result title: El Huero
+categories: ["Mexican","mexican"]
+Rating: 4.0
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/Mkvtu2BPmYgbVc70zvLW0Q/ms.jpg
+Address: ["3000 S Figueroa St","University Park","Los Angeles, CA 90007"]
+Phone: 2137470012
+======================================
+
+The 67 result title: Pollos El Brasero
+categories: ["Peruvian","peruvian"]
+Rating: 4.0
+image URL: https://s3-media2.fl.yelpcdn.com/bphoto/zs_cSZ7eCsRXwpTpvH-_mg/ms.jpg
+Address: ["2281 W Pico Blvd","Pico-Union","Los Angeles, CA 90006"]
+Phone: 2133816060
+======================================
+
+The 68 result title: Sazon Latino Restaurant
+categories: ["Latin American","latin"]
+Rating: 4.5
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/2OTWIORYZ1DXuRyvt4y3gw/ms.jpg
+Address: ["1903 W Olympic Blvd","Pico-Union","Los Angeles, CA 90006"]
+Phone: 2134589777
+======================================
+
+The 69 result title: Zamora Brothers
+categories: ["Meat Shops","meats"]
+Rating: 4.5
+image URL: https://s3-media2.fl.yelpcdn.com/bphoto/CaGruwIx43Pd0ID_T_qong/ms.jpg
+Address: ["1559 W Pico Blvd","Pico-Union","Los Angeles, CA 90015"]
+Phone: 2133855553
+======================================
+
+The 70 result title: Orange Door Sushi
+categories: ["Sushi Bars","sushi"]
+Rating: 3.5
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/mfyMzXE9P5ixA-bLYhCt-w/ms.jpg
+Address: ["1666 W Adams Blvd","Adams Normandie","Los Angeles, CA 90007"]
+Phone: 3237300133
+======================================
+
+The 71 result title: Seoul Garden Restaurant
+categories: ["Korean","korean"]
+Rating: 4.0
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/rGH-2Ag-23J31Xyys7Gxmg/ms.jpg
+Address: ["1833 W Olympic Blvd","Westlake","Los Angeles, CA 90006"]
+Phone: 2133868477
+======================================
+
+The 72 result title: Lucy's Drive In
+categories: ["Mexican","mexican"]
+Rating: 3.5
+image URL: https://s3-media2.fl.yelpcdn.com/bphoto/js0g4dkARI_mNFw7VckV3w/ms.jpg
+Address: ["1300 W Washington Blvd","Pico-Union","Los Angeles, CA 90007"]
+Phone: 2137478919
+======================================
+
+The 73 result title: El Colmao
+categories: ["Cuban","cuban"]
+Rating: 4.0
+image URL: https://s3-media2.fl.yelpcdn.com/bphoto/YCHq8cPn6asWVlrmkM-NUA/ms.jpg
+Address: ["2328 W Pico Blvd","Pico-Union","Los Angeles, CA 90006"]
+Phone: 2133866131
+======================================
+
+The 74 result title: Which Wich
+categories: ["Sandwiches","sandwiches"]
+Rating: 3.5
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/wrcWhkWyp0E__NNU7N_jRA/ms.jpg
+Address: ["3584 S Figueroa","University Park","Los Angeles, CA 90007"]
+Phone: 2137479424
+======================================
+
+The 75 result title: Yangmani
+categories: ["Korean","korean"]
+Rating: 4.5
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/MiB4wTSlKvXy_GEX9jlNLw/ms.jpg
+Address: ["2561 W Olympic Blvd","Westlake","Los Angeles, CA 90006"]
+Phone: 2132499292
+======================================
+
+The 76 result title: Tire Shop Taqueria
+categories: ["Mexican","mexican"]
+Rating: 5.0
+image URL: https://s3-media1.fl.yelpcdn.com/bphoto/q_xU2iESaKBk4rDAyBW_JA/ms.jpg
+Address: ["4069 S Avalon Blvd","Historic South Central","Los Angeles, CA 90011"]
+Phone: null
+======================================
+
+The 77 result title: King Donut
+categories: ["Donuts","donuts"]
+Rating: 4.5
+image URL: https://s3-media2.fl.yelpcdn.com/bphoto/yUPXPocOfQ07Kau4sV4_jQ/ms.jpg
+Address: ["1955 S Hoover St","Pico-Union","Los Angeles, CA 90007"]
+Phone: 2137476129
+======================================
+
+The 78 result title: The Lab Gastropub
+categories: ["Gastropubs","gastropubs"]
+Rating: 3.0
+image URL: https://s3-media2.fl.yelpcdn.com/bphoto/8Rp90HzwfkVoNEfeKplt1Q/ms.jpg
+Address: ["3500 S Figueroa Blvd","University Park","Los Angeles, CA 90007"]
+Phone: 2137431843
+======================================
+
+The 79 result title: Broken Spanish
+categories: ["Mexican","mexican"]
+Rating: 4.0
+image URL: https://s3-media2.fl.yelpcdn.com/bphoto/BGfgTwdPfUxOaMFXXWyvIw/ms.jpg
+Address: ["1050 S Flower St","Downtown","Los Angeles, CA 90015"]
+Phone: 2137491460
+======================================
+
+The 80 result title: Arashi Sushi
+categories: ["Sushi Bars","sushi"]
+Rating: 4.0
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/_RZEznmuSjI3FE2khmYy3A/ms.jpg
+Address: ["1111 S Hope St","Ste 100","Downtown","Los Angeles, CA 90015"]
+Phone: 2137491900
+======================================
+
+The 81 result title: Flame Broiler
+categories: ["Asian Fusion","asianfusion"]
+Rating: 3.5
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/02BP-G9ls4LnW9VHbhCCww/ms.jpg
+Address: ["2526 S Figueroa St","University Park","Los Angeles, CA 90007"]
+Phone: 2137458923
+======================================
+
+The 82 result title: Palm Grove Ethiopian Restaurant
+categories: ["Ethiopian","ethiopian"]
+Rating: 4.5
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/pP2ln7I13XS14niIHKOeXw/ms.jpg
+Address: ["1905 S Western Ave","Harvard Heights","Los Angeles, CA 90018"]
+Phone: 3237300994
+======================================
+
+The 83 result title: Panda Express
+categories: ["Chinese","chinese"]
+Rating: 3.0
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/H1_XAWD0_GxICXjRjA3FAg/ms.jpg
+Address: ["2828 S Figueroa St","University Park","Los Angeles, CA 90007"]
+Phone: 2137460392
+======================================
+
+The 84 result title: Langer's
+categories: ["Delis","delis"]
+Rating: 4.5
+image URL: https://s3-media1.fl.yelpcdn.com/bphoto/SNgcHvgKvNfkuTump8hrzQ/ms.jpg
+Address: ["704 S Alvarado St","Westlake","Los Angeles, CA 90057"]
+Phone: 2134838050
+======================================
+
+The 85 result title: The Stocking Frame
+categories: ["American (New)","newamerican"]
+Rating: 4.0
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/FgZS1HU9vvVBMLitD9-Vlw/ms.jpg
+Address: ["911 S Hill St","Downtown","Los Angeles, CA 90015"]
+Phone: 2134880373
+======================================
+
+The 86 result title: El Camacho Restaurante Nicaraguense
+categories: ["Latin American","latin"]
+Rating: 4.5
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/eZ3dObT6OZ18Uf4qzNFfGA/ms.jpg
+Address: ["2019 Venice Blvd","Harvard Heights","Los Angeles, CA 90006"]
+Phone: 3237356276
+======================================
+
+The 87 result title: El Ostion - Taco Truck
+categories: ["Mexican","mexican"]
+Rating: 4.5
+image URL: https://s3-media1.fl.yelpcdn.com/bphoto/rXXBw52j2R3MhPYx-e_juw/ms.jpg
+Address: ["Union & Washington","Pico-Union","Los Angeles, CA 90015"]
+Phone: null
+======================================
+
+The 88 result title: Trio House
+categories: ["Thai","thai"]
+Rating: 3.0
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/wHT2lUCXhTGvA9u_xNItQw/ms.jpg
+Address: ["3031 S Figueroa St","University Park","Los Angeles, CA 90007"]
+Phone: 2137410101
+======================================
+
+The 89 result title: House of Curry
+categories: ["Indian","indpak"]
+Rating: 4.5
+image URL: https://s3-media1.fl.yelpcdn.com/bphoto/PmgGED2PVCdw_2rFczLtcA/ms.jpg
+Address: ["1888 S Western Ave","Harvard Heights","Los Angeles, CA 90006"]
+Phone: 3237322222
+======================================
+
+The 90 result title: Tacos El Unico
+categories: ["Mexican","mexican"]
+Rating: 4.0
+image URL: https://s3-media2.fl.yelpcdn.com/bphoto/7GaGz8ze6NEqzsxh5Mi01g/ms.jpg
+Address: ["1375 W Adams Blvd","University Park","Los Angeles, CA 90007"]
+Phone: 3237371044
+======================================
+
+The 91 result title: Volcano Sushi & Boba
+categories: ["Japanese","japanese"]
+Rating: 3.5
+image URL: https://s3-media1.fl.yelpcdn.com/bphoto/a-7JuLiJHAofaN67kBTXCg/ms.jpg
+Address: ["3019 S Figueroa St","University Park","Los Angeles, CA 90007"]
+Phone: 2134934098
+======================================
+
+The 92 result title: 901 Bar & Grill
+categories: ["Bars","bars"]
+Rating: 3.5
+image URL: https://s3-media2.fl.yelpcdn.com/bphoto/UCB9vNlR_3FoqyVX-GCkBA/ms.jpg
+Address: ["2902 S Figueroa St","University Park","Los Angeles, CA 90007"]
+Phone: 2137457900
+======================================
+
+The 93 result title: Spudnuts Donuts
+categories: ["Donuts","donuts"]
+Rating: 4.0
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/dv_kEmWiGGf6XIDPgh5sZA/ms.jpg
+Address: ["3001 S Figueroa St","University Park","Los Angeles, CA 90007"]
+Phone: 2137090678
+======================================
+
+The 94 result title: Olympic Cheonggukjang
+categories: ["Korean","korean"]
+Rating: 4.0
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/5GzBmQ97CUF7AvHt84yXnQ/ms.jpg
+Address: ["2528 W Olympic Blvd","Ste 104","Pico-Union","Los Angeles, CA 90006"]
+Phone: 2134801107
+======================================
+
+The 95 result title: Chickano
+categories: ["Mexican","mexican"]
+Rating: 5.0
+image URL: https://s3-media1.fl.yelpcdn.com/bphoto/6fdhfdt_-4umPxNLrN2UTg/ms.jpg
+Address: ["University Park","Los Angeles, CA 90007"]
+Phone: 2132563029
+======================================
+
+The 96 result title: Bento Man
+categories: ["Japanese","japanese"]
+Rating: 4.0
+image URL: https://s3-media1.fl.yelpcdn.com/bphoto/0rI2CdRtW3AncZvp3busNg/ms.jpg
+Address: ["1500 S Western Ave","Harvard Heights","Los Angeles, CA 90006"]
+Phone: 3237335316
+======================================
+
+The 97 result title: Grinder Restaurants
+categories: ["American (Traditional)","tradamerican"]
+Rating: 3.0
+image URL: https://s3-media2.fl.yelpcdn.com/bphoto/HRaf-rOniUUzinrH92M9bw/ms.jpg
+Address: ["525 W 28th St","University Park","Los Angeles, CA 90007"]
+Phone: 2137470782
+======================================
+
+The 98 result title: Danger Dogs
+categories: ["Food Stands","foodstands"]
+Rating: 4.5
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/3OePv0-Yx0WcNUfTRvSUHQ/ms.jpg
+Address: ["415 W 8th St","Pico-Union","Los Angeles, CA 90006"]
+Phone: null
+======================================
+
+The 99 result title: Faith & Flower
+categories: ["American (New)","newamerican"]
+Rating: 4.0
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/5U-3Up-3yd3Wr0P5xco0hw/ms.jpg
+Address: ["705 W 9th St","Downtown","Los Angeles, CA 90015"]
+Phone: 2132390642
+======================================
+
+The 100 result title: Viztango Cafe
+categories: ["Italian","italian"]
+Rating: 3.5
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/FdkedPmeqoD46Mh9Y82jRg/ms.jpg
+Address: ["3017 S Figueroa St","University Park","Los Angeles, CA 90007"]
+Phone: 2137458050
+======================================
+
+The 101 result title: Cilantro Lime
+categories: ["Desserts","desserts"]
+Rating: 4.5
+image URL: https://s3-media1.fl.yelpcdn.com/bphoto/H7sPBIbvi6f5ssn7rgh24w/ms.jpg
+Address: ["934 Los Angeles St","Ste 2","Downtown","Los Angeles, CA 90015"]
+Phone: 2136283517
+======================================
+
+The 102 result title: Conchitas Restaurant
+categories: ["Latin American","latin"]
+Rating: 4.0
+image URL: https://s3-media1.fl.yelpcdn.com/bphoto/pbVEaE2PmbLW7-jSEVmNcw/ms.jpg
+Address: ["2580 W Pico Blvd","Pico-Union","Los Angeles, CA 90006"]
+Phone: 2133844177
+======================================
+
+The 103 result title: Jang Ga Ne
+categories: ["Korean","korean"]
+Rating: 4.5
+image URL: https://s3-media2.fl.yelpcdn.com/bphoto/RfrOzsXVXYiYkp3m20_dOw/ms.jpg
+Address: ["3003 W Olympic Blvd","Koreatown","Los Angeles, CA 90006"]
+Phone: 2133888887
+======================================
+
+The 104 result title: El Migueleno Restaurant
+categories: ["Salvadoran","salvadoran"]
+Rating: 4.0
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/N8soxf0hdWEokCE_U9R2gg/ms.jpg
+Address: ["2301 S Vermont Ave","Adams Normandie","Los Angeles, CA 90007"]
+Phone: 3237348797
+======================================
+
+The 105 result title: Guelaguetza Restaurante
+categories: ["Mexican","mexican"]
+Rating: 4.0
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/eHOwwKGLJ5QEvvmdkoUAwA/ms.jpg
+Address: ["3014 W Olympic Blvd","Harvard Heights","Los Angeles, CA 90006"]
+Phone: 2134270608
+======================================
+
+The 106 result title: Mex Per¨² Gipsy
+categories: ["Mexican","mexican"]
+Rating: 5.0
+image URL: https://s3-media1.fl.yelpcdn.com/bphoto/Rd69QxC5cKUxK-AUIkv_SQ/ms.jpg
+Address: ["414 E 12th St","Downtown","Los Angeles, CA 90015"]
+Phone: 2137481773
+======================================
+
+The 107 result title: Tijuana Dogs
+categories: ["Food Stands","foodstands"]
+Rating: 4.5
+image URL: https://s3-media1.fl.yelpcdn.com/bphoto/GaC5I_-NYtJV8Zjru_VrYQ/ms.jpg
+Address: ["1111 S Figueroa St","Downtown","Los Angeles, CA 90015"]
+Phone: null
+======================================
+
+The 108 result title: Wood Spoon
+categories: ["Brazilian","brazilian"]
+Rating: 4.0
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/fo_O6cR6mYM8omGpiOTXcA/ms.jpg
+Address: ["107 W 9th St","Downtown","Los Angeles, CA 90015"]
+Phone: 2136291765
+======================================
+
+The 109 result title: El Taurino
+categories: ["Mexican","mexican"]
+Rating: 3.5
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/xPOAj_ifY_Doy42m3cAL6g/ms.jpg
+Address: ["2306 W 11th St","Pico-Union","Los Angeles, CA 90006"]
+Phone: 2137389197
+======================================
+
+The 110 result title: Mirak 2
+categories: ["Korean","korean"]
+Rating: 4.0
+image URL: https://s3-media2.fl.yelpcdn.com/bphoto/EaQXKAUhR653ctKk-k6VkQ/ms.jpg
+Address: ["1101 S Vermont Ave","Pico-Union","Los Angeles, CA 90006"]
+Phone: 2133889291
+======================================
+
+The 111 result title: The Rustiq Table
+categories: ["Comfort Food","comfortfood"]
+Rating: 4.5
+image URL: https://s3-media2.fl.yelpcdn.com/bphoto/XAhpuvplSjoDxtDvAu6IaQ/ms.jpg
+Address: ["2280 S Figueroa St","Historic South Central","Los Angeles, CA 90007"]
+Phone: 2135365542
+======================================
+
+The 112 result title: Thai Corner Food Express
+categories: ["Thai","thai"]
+Rating: 3.0
+image URL: https://s3-media1.fl.yelpcdn.com/bphoto/n6jvdEGNm6NwiZW4I7HbOg/ms.jpg
+Address: ["3655 S Grand Ave","Historic South Central","Los Angeles, CA 90007"]
+Phone: 2137488006
+======================================
+
+The 113 result title: Tom's Urban
+categories: ["American (New)","newamerican"]
+Rating: 3.5
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/mB577UDphGionDfLLvMJsA/ms.jpg
+Address: ["1011 S Figueroa St","Ste B 101","Downtown","Los Angeles, CA 90015"]
+Phone: 2137468667
+======================================
+
+The 114 result title: Santee Falafel
+categories: ["Middle Eastern","mideastern"]
+Rating: 4.0
+image URL: https://s3-media2.fl.yelpcdn.com/bphoto/92rgNu2vQHp-0JuKQcaLLQ/ms.jpg
+Address: ["1335 S Santee St","Downtown","Los Angeles, CA 90015"]
+Phone: 2137492555
+======================================
+
+The 115 result title: Nest
+categories: ["Bars","bars"]
+Rating: 4.0
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/9ezsyvpNk01512-U_dU8lQ/ms.jpg
+Address: ["900 W Olympic Blvd","Downtown","Los Angeles, CA 90015"]
+Phone: 2137438824
+======================================
+
+The 116 result title: Birrieria Baldomero
+categories: ["Mexican","mexican"]
+Rating: 4.5
+image URL: https://s3-media1.fl.yelpcdn.com/bphoto/bC5NQ44bOqC2VGIhnx98VA/ms.jpg
+Address: ["3200 Maple Ave","Historic South Central","Los Angeles, CA 90011"]
+Phone: 3232336849
+======================================
+
+The 117 result title: USC University Club
+categories: ["American (Traditional)","tradamerican"]
+Rating: 3.5
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/hq8d-gDyDWjwq0Q7KrDmgw/ms.jpg
+Address: ["King Stoops Hall","705 W 34th St","University Park","Los Angeles, CA 90089"]
+Phone: 2137402030
+======================================
+
+The 118 result title: Chipotle Mexican Grill
+categories: ["Mexican","mexican"]
+Rating: 3.0
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/Uyg6jacznRCicn73Mw8qxw/ms.jpg
+Address: ["3748 S Figueroa St","Exposition Park","Los Angeles, CA 90007"]
+Phone: 2137659068
+======================================
+
+The 119 result title: Mrs. Sippee
+categories: ["Chicken Shop","chickenshop"]
+Rating: 4.5
+image URL: https://s3-media1.fl.yelpcdn.com/bphoto/RymnVfD1T4Drqg3uxnXmIg/ms.jpg
+Address: ["1045 Blaine St","Pico-Union","Los Angeles, CA 90015"]
+Phone: 2137481612
+======================================
+
+The 120 result title: California Kabob Kitchen
+categories: ["Middle Eastern","mideastern"]
+Rating: 4.0
+image URL: https://s3-media1.fl.yelpcdn.com/bphoto/dcgaNPbxnKAr--17AXX-fg/ms.jpg
+Address: ["141 W 11th St","Downtown","Los Angeles, CA 90015"]
+Phone: 2137479500
+======================================
+
+The 121 result title: El Ranchito Restaurant
+categories: ["Mexican","mexican"]
+Rating: 4.0
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/Yx-TjZW1JpI6gJCDOaZsJA/ms.jpg
+Address: ["3401 S Main St","Historic South Central","Los Angeles, CA 90007"]
+Phone: 2137470443
+======================================
+
+The 122 result title: Seoul Sausage
+categories: ["Food Trucks","foodtrucks"]
+Rating: 4.0
+image URL: https://s3-media1.fl.yelpcdn.com/bphoto/efthq6YJhtQ62YC2momCGQ/ms.jpg
+Address: ["Downtown","Los Angeles, CA 90015"]
+Phone: 3104777739
+======================================
+
+The 123 result title: Soowon Galbi KBBQ Restaurant
+categories: ["Korean","korean"]
+Rating: 4.5
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/vkcpyJJjnE5gODgGSNXwug/ms.jpg
+Address: ["856 S Vermont Ave","Ste C","Koreatown","Los Angeles, CA 90005"]
+Phone: 2133659292
+======================================
+
+The 124 result title: Cilantro Always Fresh
+categories: ["Mexican","mexican"]
+Rating: 4.0
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/7NvtfY00BPySUR4R-W4aZg/ms.jpg
+Address: ["1359 S Main St","Downtown","Los Angeles, CA 90057"]
+Phone: 2137483900
+======================================
+
+The 125 result title: Mi Querido Pulgarcito Restaurant
+categories: ["Salvadoran","salvadoran"]
+Rating: 4.0
+image URL: https://s3-media1.fl.yelpcdn.com/bphoto/BJnfAMAovVJ7NEhKOVznGw/ms.jpg
+Address: ["1608 W Washington Blvd","Pico-Union","Los Angeles, CA 90007"]
+Phone: 3237356612
+======================================
+
+The 126 result title: Cafe Teragram
+categories: ["American (New)","newamerican"]
+Rating: 5.0
+image URL: https://s3-media2.fl.yelpcdn.com/bphoto/q0yfYVHkMpYWCOZEqyKxEw/ms.jpg
+Address: ["1234 W 7th St","Westlake","Los Angeles, CA 90017"]
+Phone: 2136899100
+======================================
+
+The 127 result title: Jeon Ju Restaurant
+categories: ["Korean","korean"]
+Rating: 4.0
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/TZ_Tls39JVZxnG_7FL-ihA/ms.jpg
+Address: ["2716 W Olympic Blvd","Ste 101","Pico-Union","Los Angeles, CA 90006"]
+Phone: 2133865678
+======================================
+
+The 128 result title: Hong Galbi
+categories: ["Korean","korean"]
+Rating: 4.5
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/q3Ob7ZE3Qq-z2DYNAUdt0A/ms.jpg
+Address: ["3132 W Olympic Blvd","Harvard Heights","Los Angeles, CA 90006"]
+Phone: 3237342577
+======================================
+
+The 129 result title: Aldewaniah Restaurant
+categories: ["Hookah Bars","hookah_bars"]
+Rating: 3.5
+image URL: https://s3-media2.fl.yelpcdn.com/bphoto/zzdjedLuf5x2fr2umWckvQ/ms.jpg
+Address: ["2528 S Grand Ave","Historic South Central","Los Angeles, CA 90007"]
+Phone: 2137457585
+======================================
+
+The 130 result title: Bottega Louie
+categories: ["Italian","italian"]
+Rating: 4.0
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/XRwYBQyHx4jdvaheUzJhWg/ms.jpg
+Address: ["700 S Grand Ave","Downtown","Los Angeles, CA 90017"]
+Phone: 2138021470
+======================================
+
+The 131 result title: Tacos Locos
+categories: ["Mexican","mexican"]
+Rating: 4.5
+image URL: https://s3-media1.fl.yelpcdn.com/bphoto/Y5T_Nk33Ta27UgaSH41KEQ/ms.jpg
+Address: ["2148 Venice Blvd","Harvard Heights","Los Angeles, CA 90006"]
+Phone: 3237346357
+======================================
+
+The 132 result title: Fatburger
+categories: ["Burgers","burgers"]
+Rating: 3.5
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/0cKsUTK4pyT1Ubq44djA6g/ms.jpg
+Address: ["3026 S Figueroa St","University Park","Los Angeles, CA 90007"]
+Phone: 2137470101
+======================================
+
+The 133 result title: Moreton Fig
+categories: ["Bars","bars"]
+Rating: 3.5
+image URL: https://s3-media2.fl.yelpcdn.com/bphoto/sf24MeFXmNwY4EkLBKVgbg/ms.jpg
+Address: ["3607 Trousdale Pkwy","University Park","Los Angeles, CA 90089"]
+Phone: 2138213441
+======================================
+
+The 134 result title: Yard House
+categories: ["Bars","bars"]
+Rating: 3.5
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/VeIDA2ZUg3n5-UvnndWd1g/ms.jpg
+Address: ["800 West Olympic Blvd","Downtown","Los Angeles, CA 90015"]
+Phone: 2137459273
+======================================
+
+The 135 result title: Mercado La Paloma
+categories: ["Latin American","latin"]
+Rating: 4.5
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/ThzMxWf2uuFU14xj9Dh_Rg/ms.jpg
+Address: ["3655 S Grand Ave","Ste 240","Historic South Central","Los Angeles, CA 90007"]
+Phone: 2137481963
+======================================
+
+The 136 result title: Beverly Soon Tofu Restaurant
+categories: ["Korean","korean"]
+Rating: 4.0
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/3ulC6C6FyopgcHuY2b0YXA/ms.jpg
+Address: ["2717 W Olympic Blvd","Ste 108","Koreatown","Los Angeles, CA 90006"]
+Phone: 2133801113
+======================================
+
+The 137 result title: Local Table
+categories: ["American (New)","newamerican"]
+Rating: 4.0
+image URL: https://s3-media1.fl.yelpcdn.com/bphoto/r4DADaJaOl6Gc1U358n-Vg/ms.jpg
+Address: ["800 S Figueroa St","Ste 103","Downtown","Los Angeles, CA 90017"]
+Phone: 2134882654
+======================================
+
+The 138 result title: Aladdin's Coffee Shop
+categories: ["Caterers","catering"]
+Rating: 4.5
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/wYDUBlbc7WLOlK6DO8Jf8Q/ms.jpg
+Address: ["1150 S Hope St","Downtown","Los Angeles, CA 90015"]
+Phone: 2137474032
+======================================
+
+The 139 result title: Wako Donkasu
+categories: ["Korean","korean"]
+Rating: 4.0
+image URL: https://s3-media2.fl.yelpcdn.com/bphoto/kroddvj3LkxG1FZcVg8vNg/ms.jpg
+Address: ["2904 W Olympic Blvd","Pico-Union","Los Angeles, CA 90006"]
+Phone: 2133879256
+======================================
+
+The 140 result title: Pho Saigon
+categories: ["Vietnamese","vietnamese"]
+Rating: 3.5
+image URL: https://s3-media1.fl.yelpcdn.com/bphoto/6aTHZSiGNyNdDf1M1ocJqA/ms.jpg
+Address: ["1753 S Hill St","Ste 2","Downtown","Los Angeles, CA 90015"]
+Phone: 2137460746
+======================================
+
+The 141 result title: Taco Bravo
+categories: ["Mexican","mexican"]
+Rating: 4.0
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/UIhnutXKFo3SMbLTEW4lMg/ms.jpg
+Address: ["1400 W Pico Blvd","Pico-Union","Los Angeles, CA 90015"]
+Phone: 2137490853
+======================================
+
+The 142 result title: Triple 8 China Bar & Grill
+categories: ["Dim Sum","dimsum"]
+Rating: 3.5
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/2K0ok1ivAZTf_zEZzk5osg/ms.jpg
+Address: ["800 W Olympic Blvd","Ste A-120","Downtown","Los Angeles, CA 90015"]
+Phone: 2137473700
+======================================
+
+The 143 result title: Louisiana Fried Chicken
+categories: ["Soul Food","soulfood"]
+Rating: 4.0
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/jtksd1TIgSe1CrEz1pyExA/ms.jpg
+Address: ["1734 West Adams Blvd","Adams Normandie","Los Angeles, CA 90018"]
+Phone: 3237662689
+======================================
+
+The 144 result title: Hawaiian BBQ
+categories: ["Hawaiian","hawaiian"]
+Rating: 5.0
+image URL: https://s3-media1.fl.yelpcdn.com/bphoto/ndNG7tHQfvyl3IwrKU3JQQ/ms.jpg
+Address: ["1710 S Western","Harvard Heights","Los Angeles, CA 90019"]
+Phone: null
+======================================
+
+The 145 result title: POCHA KOREA dba PUB POCHA
+categories: ["Pubs","pubs"]
+Rating: 4.5
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/MOkM89xYJnGqtsugcEfIow/ms.jpg
+Address: ["1101 S. Vermont Ave. Los Angeles, CA","Pico-Union","Los Angeles, CA 90006"]
+Phone: 2133895500
+======================================
+
+The 146 result title: ACA Grill
+categories: ["Argentine","argentine"]
+Rating: 4.5
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/O7ijSPfnU9lCUCu6EL1Z4w/ms.jpg
+Address: ["3062 W 8th St","Koreatown","Los Angeles, CA 90005"]
+Phone: 2136747708
+======================================
+
+The 147 result title: El Cihualteco
+categories: ["Mexican","mexican"]
+Rating: 5.0
+image URL: https://s3-media2.fl.yelpcdn.com/bphoto/1R8lKIbFqdrD7jXD8aLMoQ/ms.jpg
+Address: ["2325 S San Pedro St","Historic South Central","Los Angeles, CA 90011"]
+Phone: 2137482519
+======================================
+
+The 148 result title: Olympic Burger & Burrito
+categories: ["Burgers","burgers"]
+Rating: 4.0
+image URL: https://s3-media2.fl.yelpcdn.com/bphoto/IvhyncVGXfYLGVyXJyTvbg/ms.jpg
+Address: ["1001 S Vermont Ave","Pico-Union","Los Angeles, CA 90006"]
+Phone: 2133851728
+======================================
+
+The 149 result title: Plan Check Kitchen + Bar
+categories: ["Cocktail Bars","cocktailbars"]
+Rating: 4.0
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/boACcqZOWaAJElPQ6X4WCg/ms.jpg
+Address: ["1111 Wilshire Blvd","Westlake","Los Angeles, CA 90017"]
+Phone: 2134031616
+======================================
+
+The 150 result title: El Compadre
+categories: ["Mexican","mexican"]
+Rating: 3.5
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/XxTQjx--FJXPJT3cJ4u1Vg/ms.jpg
+Address: ["1248 S Figueroa St","Ste 101","Downtown","Los Angeles, CA 90015"]
+Phone: 2137490025
+======================================
+
+The 151 result title: Surawon Restaurant
+categories: ["Korean","korean"]
+Rating: 4.0
+image URL: https://s3-media2.fl.yelpcdn.com/bphoto/cd8DNEGJzsFmQOrgRFw6OQ/ms.jpg
+Address: ["2833 W Olympic Blvd","Koreatown","Los Angeles, CA 90006"]
+Phone: 2133837317
+======================================
+
+The 152 result title: Casa Nostra Ristorante & Bar
+categories: ["Italian","italian"]
+Rating: 4.0
+image URL: https://s3-media1.fl.yelpcdn.com/bphoto/7bdC8yroeKf0ti2WrHKZzQ/ms.jpg
+Address: ["825 W 9th St","Downtown","Los Angeles, CA 90015"]
+Phone: 2133623311
+======================================
+
+The 153 result title: Park's BBQ
+categories: ["Barbeque","bbq"]
+Rating: 4.0
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/i8kJ1G5hPexgTb4xRVp7jQ/ms.jpg
+Address: ["955 S Vermont Ave","Koreatown","Los Angeles, CA 90006"]
+Phone: 2133801717
+======================================
+
+The 154 result title: Yojie Japanese Fondue & Sake Bar
+categories: ["Japanese","japanese"]
+Rating: 4.0
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/duSemsrb_5NGkFCUEHxGBA/ms.jpg
+Address: ["501 W Olympic Blvd","Ste 102","Downtown","Los Angeles, CA 90015"]
+Phone: 2139888808
+======================================
+
+The 155 result title: Bulrocho Korean Restaurant
+categories: ["Korean","korean"]
+Rating: 4.0
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/GR3epb_OCqP2vrcFsxk_zw/ms.jpg
+Address: ["955 S Vermont St","Koreatown","Los Angeles, CA 90006"]
+Phone: 2133830080
+======================================
+
+The 156 result title: EJ's Bites
+categories: ["Fast Food","hotdogs"]
+Rating: 4.0
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/x5BDyU4V_niNH49jO8bYYQ/ms.jpg
+Address: ["949 S Figueroa St","Downtown","Los Angeles, CA 90015"]
+Phone: 2136839768
+======================================
+
+The 157 result title: El Nuevo Ilobasco Family Restaurant
+categories: ["Salvadoran","salvadoran"]
+Rating: 4.0
+image URL: https://s3-media1.fl.yelpcdn.com/bphoto/p7QiGFfmCrzWcJ-JwuADSA/ms.jpg
+Address: ["1436 S Vermont Ave","Pico-Union","Los Angeles, CA 90006"]
+Phone: 2133824933
+======================================
+
+The 158 result title: Panini Cafe -Downtown
+categories: ["Italian","italian"]
+Rating: 4.0
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/-9a_vLVzos2REjXBEdaoVQ/ms.jpg
+Address: ["600 W 9th St","Downtown","Los Angeles, CA 90015"]
+Phone: 2134894200
+======================================
+
+The 159 result title: Mi Mama Restaurant
+categories: ["Coffee & Tea","coffee"]
+Rating: 4.5
+image URL: https://s3-media1.fl.yelpcdn.com/bphoto/06BDQbQ_PV3fp0PNa-Uiew/ms.jpg
+Address: ["2202 S Hoover St","University Park","Los Angeles, CA 90007"]
+Phone: 2134358652
+======================================
+
+The 160 result title: Gam Ja Gol
+categories: ["Korean","korean"]
+Rating: 4.0
+image URL: https://s3-media1.fl.yelpcdn.com/bphoto/QZCQQ5rbPKCp79ZBtgdzOQ/ms.jpg
+Address: ["3003 W Olympic Blvd","Ste 107","Koreatown","Los Angeles, CA 90006"]
+Phone: 2133816446
+======================================
+
+The 161 result title: Los Molcajetes
+categories: ["Latin American","latin"]
+Rating: 4.0
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/LO3t8QEXf9tp0HmkQmbnbw/ms.jpg
+Address: ["1800 W 8th St","Westlake","Los Angeles, CA 90057"]
+Phone: 2133888994
+======================================
+
+The 162 result title: BlackYama
+categories: ["American (New)","newamerican"]
+Rating: 5.0
+image URL: https://s3-media2.fl.yelpcdn.com/bphoto/GGu-wBKWF_AwHA5Wdiw7rg/ms.jpg
+Address: ["S Flower St","Downtown","Los Angeles, CA 90015"]
+Phone: null
+======================================
+
+The 163 result title: Lindo Oaxaca
+categories: ["Mexican","mexican"]
+Rating: 4.0
+image URL: https://s3-media1.fl.yelpcdn.com/bphoto/XDhehBfw-Fxta2JqacZ_Cw/ms.jpg
+Address: ["322 E Washington Blvd","Historic South Central","Los Angeles, CA 90015"]
+Phone: 2137498723
+======================================
+
+The 164 result title: Tofu and Noodles
+categories: ["Korean","korean"]
+Rating: 4.5
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/mNSHuCZd-GkSUgM_ttBiCg/ms.jpg
+Address: ["3068 W 8th St","Koreatown","Los Angeles, CA 90005"]
+Phone: 2139150256
+======================================
+
+The 165 result title: Rincon Hondureno
+categories: ["Latin American","latin"]
+Rating: 4.0
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/c-BSC7yU_-WX0TkI5A56aA/ms.jpg
+Address: ["1654 W Adams Blvd","Adams Normandie","Los Angeles, CA 90007"]
+Phone: 3237349530
+======================================
+
+The 166 result title: Ford's Filling Station
+categories: ["American (New)","newamerican"]
+Rating: 3.5
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/5kbPQGTwT-kH8ShgyW4W1g/ms.jpg
+Address: ["900 West Olympic Blvd","Downtown","Los Angeles, CA 90015"]
+Phone: 2137658600
+======================================
+
+The 167 result title: Sabor Mexicano
+categories: ["Mexican","mexican"]
+Rating: 5.0
+image URL: https://s3-media2.fl.yelpcdn.com/bphoto/uc0GMr1FoxcTDF4M9sb9_A/ms.jpg
+Address: ["1151 W Venice Blvd","Pico-Union","Los Angeles, CA 90019"]
+Phone: 2133801669
+======================================
+
+The 168 result title: BottleRock
+categories: ["American (New)","newamerican"]
+Rating: 3.5
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/vHFRoFpRHCwlh-IgcLwFNA/ms.jpg
+Address: ["1050 S Flower St","Downtown","Los Angeles, CA 90015"]
+Phone: 2137471100
+======================================
+
+The 169 result title: Omar's Hot Dog Stand
+categories: ["Hot Dogs","hotdog"]
+Rating: 5.0
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/3UoCwIKUzk8LKSdkjb_LFQ/ms.jpg
+Address: ["Corner of Vermont Ave and 29th St","Adams Normandie","Los Angeles, CA 90007"]
+Phone: null
+======================================
+
+The 170 result title: Preux & Proper
+categories: ["Bars","bars"]
+Rating: 4.0
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/aQr-ZCDNU20V7unIU-DRww/ms.jpg
+Address: ["840 S Spring St","Downtown","Los Angeles, CA 90014"]
+Phone: 2138960090
+======================================
+
+The 171 result title: Torta Movil
+categories: ["Street Vendors","streetvendors"]
+Rating: 4.5
+image URL: https://s3-media2.fl.yelpcdn.com/bphoto/rNZiI5khHB6mKa8NSmYD6g/ms.jpg
+Address: ["S San Pedro St","Historic South Central","Los Angeles, CA 90011"]
+Phone: null
+======================================
+
+The 172 result title: King Taco
+categories: ["Mexican","mexican"]
+Rating: 3.5
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/cgjXwfjRlVd-5DXC6FXkTw/ms.jpg
+Address: ["645 E Washington Blvd","Downtown","Los Angeles, CA 90015"]
+Phone: 2137479915
+======================================
+
+The 173 result title: Mendocino Farms
+categories: ["Sandwiches","sandwiches"]
+Rating: 4.5
+image URL: https://s3-media2.fl.yelpcdn.com/bphoto/kqn8-Rx2Jd8W_uhCo38I6A/ms.jpg
+Address: ["735 S Figueroa St","Downtown","Los Angeles, CA 90071"]
+Phone: 2134309040
+======================================
+
+The 174 result title: Souk Shawarma
+categories: ["Middle Eastern","mideastern"]
+Rating: 4.5
+image URL: https://s3-media1.fl.yelpcdn.com/bphoto/aHDxE31iujGQsOtW83TzYw/ms.jpg
+Address: ["1111 Wilshire Blvd","Westlake","Los Angeles, CA 90017"]
+Phone: 2139358373
+======================================
+
+The 175 result title: Sopita
+categories: ["Korean","korean"]
+Rating: 4.0
+image URL: https://s3-media2.fl.yelpcdn.com/bphoto/mYBAbs7l387EFOGe3agbbQ/ms.jpg
+Address: ["3087 W Pico Blvd","Ste 9","Harvard Heights","Los Angeles, CA 90006"]
+Phone: 3233569224
+======================================
+
+The 176 result title: The Holy Grill
+categories: ["Food Trucks","foodtrucks"]
+Rating: 4.5
+image URL: https://s3-media2.fl.yelpcdn.com/bphoto/UkRpHfrdcaIS6itPQWNCFA/ms.jpg
+Address: ["120 E 15th St","Downtown","Los Angeles, CA 90015"]
+Phone: 2134449681
+======================================
+
+The 177 result title: Original Pantry Cafe
+categories: ["American (Traditional)","tradamerican"]
+Rating: 3.5
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/VSY0Tor5Bcj9WqnwHeFmVw/ms.jpg
+Address: ["877 S Figueroa St","Downtown","Los Angeles, CA 90017"]
+Phone: 2139729279
+======================================
+
+The 178 result title: Myung In Dumplings
+categories: ["Korean","korean"]
+Rating: 4.0
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/l48sx_6xBCZeRF1lUxOg5A/ms.jpg
+Address: ["3109 W Olympic Blvd","Ste B","Koreatown","Los Angeles, CA 90006"]
+Phone: 2133813568
+======================================
+
+The 179 result title: KOW BBQ
+categories: ["Korean","korean"]
+Rating: 4.0
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/NQc6Zdzj35eHXdyXkKG8fg/ms.jpg
+Address: ["2585 W Olympic Blvd","Westlake","Los Angeles, CA 90006"]
+Phone: 2135683265
+======================================
+
+The 180 result title: Yang Ga Neh
+categories: ["Korean","korean"]
+Rating: 5.0
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/J_HedWjTios3ekhX6UgF1Q/ms.jpg
+Address: ["1676 W 11th St","Pico-Union","Los Angeles, CA 90015"]
+Phone: 2133813358
+======================================
+
+The 181 result title: Danny's Tacos
+categories: ["Mexican","mexican"]
+Rating: 4.0
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/6geZdk9ss-5V4PMVNob8EA/ms.jpg
+Address: ["1000 S Grand Ave","Downtown","Los Angeles, CA 90015"]
+Phone: 3235297486
+======================================
+
+The 182 result title: Manzanillo Colima
+categories: ["Seafood","seafood"]
+Rating: 4.5
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/_Y2hGQsV1voqS0_C0TQg_A/ms.jpg
+Address: ["701 E Washington Blvd","Downtown","Los Angeles, CA 90021"]
+Phone: 2137478194
+======================================
+
+The 183 result title: Jun Won Restaurant
+categories: ["Korean","korean"]
+Rating: 4.5
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/rl-F_qPJFLmW47agqKnp-g/ms.jpg
+Address: ["3100 W 8th St","Ste 101","Koreatown","Los Angeles, CA 90005"]
+Phone: 2133838855
+======================================
+
+The 184 result title: Soy Japanese Grill and Roll
+categories: ["Japanese","japanese"]
+Rating: 2.5
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/RmCqT7jTRrKpU-kMi7dHbw/ms.jpg
+Address: ["2813 S Figueroa St","University Park","Los Angeles, CA 90007"]
+Phone: 2137468831
+======================================
+
+The 185 result title: Rodeo Mexican Grill
+categories: ["Mexican","mexican"]
+Rating: 3.5
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/A8_ZHL48MTdoFl9Ftj7bRw/ms.jpg
+Address: ["1721 W Olympic Blvd","Westlake","Los Angeles, CA 90015"]
+Phone: 2137385252
+======================================
+
+The 186 result title: 1810 Argentinean Restaurant
+categories: ["Argentine","argentine"]
+Rating: 4.0
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/lurMwne3Knh4N2QFG9QclA/ms.jpg
+Address: ["105 W 9th St","Downtown","Los Angeles, CA 90015"]
+Phone: 2136231810
+======================================
+
+The 187 result title: Hong Kong Express
+categories: ["Chinese","chinese"]
+Rating: 2.5
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/VS7L5LgK78gMuQkikYP_eg/ms.jpg
+Address: ["2604 S Vermont Ave","Ste D","University Park","Los Angeles, CA 90007"]
+Phone: 3237321318
+======================================
+
+The 188 result title: Belly & Snout
+categories: ["American (New)","newamerican"]
+Rating: 4.5
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/aTBNXCmBdL1ZtQ69PsChbA/ms.jpg
+Address: ["974 S Western Ave","Koreatown","Los Angeles, CA 90006"]
+Phone: 3236434170
+======================================
+
+The 189 result title: Carnitas Michoacan
+categories: ["Restaurants","restaurants"]
+Rating: 4.0
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/_AyxuvGJyitHlRsp3tqpeA/ms.jpg
+Address: ["1605 S Hoover Street","Suite 105","Pico-Union","Los Angeles, CA 90006"]
+Phone: 2137481809
+======================================
+
+The 190 result title: The Sandwich Joint
+categories: ["Sandwiches","sandwiches"]
+Rating: 4.5
+image URL: https://s3-media2.fl.yelpcdn.com/bphoto/9SJTNKFuDlW7pX3V3OHNUw/ms.jpg
+Address: ["1068 W 7th St","Westlake","Los Angeles, CA 90017"]
+Phone: 2136235300
+======================================
+
+The 191 result title: Traditions
+categories: ["Dive Bars","divebars"]
+Rating: 3.5
+image URL: https://s3-media2.fl.yelpcdn.com/bphoto/F7RDfIn54LxOkzik3AAVbg/ms.jpg
+Address: ["3607 Trousdale Pkwy","University Park","Los Angeles, CA 90089"]
+Phone: 2138213445
+======================================
+
+The 192 result title: The Habit Burger Grill
+categories: ["Burgers","burgers"]
+Rating: 3.0
+image URL: https://s3-media2.fl.yelpcdn.com/bphoto/kGoWhC0D65p_mowo_YIA5w/ms.jpg
+Address: ["3607 Trousdale Pkwy","University Park","Los Angeles, CA 90089"]
+Phone: null
+======================================
+
+The 193 result title: Mangia Italian Ristorante on Wheels
+categories: ["Street Vendors","streetvendors"]
+Rating: 4.0
+image URL: https://s3-media1.fl.yelpcdn.com/bphoto/EVso9FLotVzNHWHqmZw_qQ/ms.jpg
+Address: ["Downtown Los Angeles  Area","Downtown","Los Angeles, CA 90015"]
+Phone: 5624001946
+======================================
+
+The 194 result title: Las 7 Regiones
+categories: ["Mexican","mexican"]
+Rating: 4.0
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/7iZfI6waEkVq-iJHAeHRkQ/ms.jpg
+Address: ["2648 W Pico Blvd","Pico-Union","Los Angeles, CA 90006"]
+Phone: 2133857458
+======================================
+
+The 195 result title: Paseo San Miguel
+categories: ["Spanish","spanish"]
+Rating: 4.0
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/mg9FDX0EHuEQFM75WA6HnQ/ms.jpg
+Address: ["1570 W Martin Luther King Jr Blvd","Vermont Square","Los Angeles, CA 90062"]
+Phone: 3232940201
+======================================
+
+The 196 result title: Colori Kitchen
+categories: ["Italian","italian"]
+Rating: 4.0
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/gRREYsCKxP1a9z5gwFKriA/ms.jpg
+Address: ["429 W 8th St","Downtown","Los Angeles, CA 90014"]
+Phone: 2136225950
+======================================
+
+The 197 result title: Shekarchi Restaurant
+categories: ["Persian\/Iranian","persian"]
+Rating: 4.0
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/qjcllEartcd6yNlXgmT0OQ/ms.jpg
+Address: ["914 S Hill St","Downtown","Los Angeles, CA 90015"]
+Phone: 2138928535
+======================================
+
+The 198 result title: Corner Place
+categories: ["Korean","korean"]
+Rating: 4.0
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/fbVUOqWuYHqr-r3Lb9-EcA/ms.jpg
+Address: ["2819 James M Wood Blvd","Koreatown","Los Angeles, CA 90006"]
+Phone: 2134870968
+======================================
+
+The 199 result title: Hodori Restaurant
+categories: ["Korean","korean"]
+Rating: 3.5
+image URL: https://s3-media1.fl.yelpcdn.com/bphoto/TitHxE-Un8phTtY2knUjrQ/ms.jpg
+Address: ["1001 S Vermont Ave","Pico-Union","Los Angeles, CA 90006"]
+Phone: 2133833554
+======================================
+
+The 200 result title: Tracey's Belizean Restaurant
+categories: ["Caribbean","caribbean"]
+Rating: 4.5
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/JX6XANmSwm5GrSWN89_EUg/ms.jpg
+Address: ["3810 S Western Ave","Exposition Park","Los Angeles, CA 90062"]
+Phone: 3237352166
+======================================
+
+The 201 result title: King Food
+categories: ["Restaurants","restaurants"]
+Rating: 4.5
+image URL: https://s3-media1.fl.yelpcdn.com/bphoto/oZi9rn_EG6zBxUdqbVc_OA/ms.jpg
+Address: ["100 E Pico Boulevard","Downtown","Los Angeles, CA 90015"]
+Phone: 2137481388
+======================================
+
+The 202 result title: Yu Chun
+categories: ["Korean","korean"]
+Rating: 4.0
+image URL: https://s3-media2.fl.yelpcdn.com/bphoto/NswzBdtTh5jftrfm1JrpiQ/ms.jpg
+Address: ["3185 W Olympic Blvd","Harvard Heights","Los Angeles, CA 90006"]
+Phone: 2133823815
+======================================
+
+The 203 result title: Eighth Street Soondae
+categories: ["Korean","korean"]
+Rating: 4.5
+image URL: https://s3-media1.fl.yelpcdn.com/bphoto/T79fRCTGiR5abGNyrFt00A/ms.jpg
+Address: ["2703 W 8th St","Westlake","Los Angeles, CA 90005"]
+Phone: 2134870038
+======================================
+
+The 204 result title: Road To Seoul
+categories: ["Korean","korean"]
+Rating: 4.0
+image URL: https://s3-media1.fl.yelpcdn.com/bphoto/SW-MoEzl84TeA3rT9OUy4Q/ms.jpg
+Address: ["1230 S Western Ave","Harvard Heights","Los Angeles, CA 90006"]
+Phone: 3237319292
+======================================
+
+The 205 result title: Seasalt Fish Grill
+categories: ["Seafood","seafood"]
+Rating: 4.0
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/XgXiX1-hqvdaDDcddKaTmQ/ms.jpg
+Address: ["812 W 7th St","Downtown","Los Angeles, CA 90017"]
+Phone: 2132435700
+======================================
+
+The 206 result title: Lawry's Carvery
+categories: ["Sandwiches","sandwiches"]
+Rating: 3.5
+image URL: https://s3-media1.fl.yelpcdn.com/bphoto/r-_2EQF4L7GlrPuZK-Y1bQ/ms.jpg
+Address: ["1011 S Figueroa St","Ste B115","Downtown","Los Angeles, CA 90015"]
+Phone: 2132222212
+======================================
+
+The 207 result title: Alex Sandwich
+categories: ["Sandwiches","sandwiches"]
+Rating: 4.5
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/qmaKf4AqXNRTBUe6m3B4Fg/ms.jpg
+Address: ["1242 Santee St","Downtown","Los Angeles, CA 90015"]
+Phone: 2137473110
+======================================
+
+The 208 result title: Public School 213
+categories: ["Bars","bars"]
+Rating: 4.0
+image URL: https://s3-media1.fl.yelpcdn.com/bphoto/_uwbC5ttlZWKNZksCQcbqg/ms.jpg
+Address: ["612 Flower St","Downtown","Los Angeles, CA 90017"]
+Phone: 2136224500
+======================================
+
+The 209 result title: Bar & Kitchen
+categories: ["American (New)","newamerican"]
+Rating: 4.0
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/NRsZiQjlc35sjC7wNW82LA/ms.jpg
+Address: ["O Hotel","819 S Flower St","Downtown","Los Angeles, CA 90017"]
+Phone: 2137843048
+======================================
+
+The 210 result title: Casa La Do?a
+categories: ["Mexican","mexican"]
+Rating: 4.5
+image URL: https://s3-media1.fl.yelpcdn.com/bphoto/_0mmDKGhnvrxmRQsUP6v0w/ms.jpg
+Address: ["800 S Main St","Downtown","Los Angeles, CA 90014"]
+Phone: 2136277441
+======================================
+
+The 211 result title: Joan & Sisters Restaurant
+categories: ["Latin American","latin"]
+Rating: 4.0
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/A_IEes2qjz6YXgpvkjw9PA/ms.jpg
+Address: ["3709 S Western Ave","Exposition Park","Los Angeles, CA 90018"]
+Phone: 3237358952
+======================================
+
+The 212 result title: Hamburger Dan's 4
+categories: ["Burgers","burgers"]
+Rating: 4.0
+image URL: https://s3-media2.fl.yelpcdn.com/bphoto/wTsuvKriZYp3EkDry14erA/ms.jpg
+Address: ["3764 S Normandie Ave","Exposition Park","Los Angeles, CA 90007"]
+Phone: 3237371522
+======================================
+
+The 213 result title: Ted's Burger 3
+categories: ["Burgers","burgers"]
+Rating: 3.5
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/0QiwdU8JPl5zRnnK_iUXhQ/ms.jpg
+Address: ["1501 W Jefferson Blvd","Adams Normandie","Los Angeles, CA 90018"]
+Phone: 3237342051
+======================================
+
+The 214 result title: Little Sister
+categories: ["Vietnamese","vietnamese"]
+Rating: 4.0
+image URL: https://s3-media2.fl.yelpcdn.com/bphoto/cTdyPIHy8fI-QRCmo8FhnQ/ms.jpg
+Address: ["523 W 7th St","Downtown","Los Angeles, CA 90017"]
+Phone: 2136283146
+======================================
+
+The 215 result title: Best Burger
+categories: ["Burgers","burgers"]
+Rating: 4.0
+image URL: https://s3-media2.fl.yelpcdn.com/bphoto/AXVVSZt-RbMcAyWGmkn-RQ/ms.jpg
+Address: ["3533 S Western Ave","Exposition Park","Los Angeles, CA 90018"]
+Phone: 3237322197
+======================================
+
+The 216 result title: McKay's
+categories: ["Bars","bars"]
+Rating: 2.5
+image URL: https://s3-media1.fl.yelpcdn.com/bphoto/1h0Y2CeIoJVUARci9IoSIg/ms.jpg
+Address: ["3540 S Figueroa St","University Park","Los Angeles, CA 90007"]
+Phone: 2137434111
+======================================
+
+The 217 result title: Lucy's Drive Thru
+categories: ["Mexican","mexican"]
+Rating: 3.0
+image URL: https://s3-media1.fl.yelpcdn.com/bphoto/W4ODBfvp5oCG63pA007GSg/ms.jpg
+Address: ["1568 W Pico Blvd","Pico-Union","Los Angeles, CA 90015"]
+Phone: 2133840721
+======================================
+
+The 218 result title: Uncle John's Cafe
+categories: ["American (Traditional)","tradamerican"]
+Rating: 4.0
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/9uOrK4629ugmix2rsGUzNg/ms.jpg
+Address: ["834 S Grand Ave","Downtown","Los Angeles, CA 90017"]
+Phone: 2136233555
+======================================
+
+The 219 result title: Fleming's Prime Steakhouse & Wine Bar
+categories: ["Steakhouses","steak"]
+Rating: 4.0
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/4xH5CjnRit3tVm10apDAzQ/ms.jpg
+Address: ["800 W Olympic Blvd","Downtown","Los Angeles, CA 90015"]
+Phone: 2137459911
+======================================
+
+The 220 result title: Soy Roll & Katsu
+categories: ["Japanese","japanese"]
+Rating: 2.5
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/zYjEKJt4tJ6H_NR0MZ8Klg/ms.jpg
+Address: ["3335 S. Figueroa St","Unit L","University Park","Los Angeles, CA 90007"]
+Phone: 2137411288
+======================================
+
+The 221 result title: Golazo Restaurant
+categories: ["Mexican","mexican"]
+Rating: 5.0
+image URL: https://s3-media1.fl.yelpcdn.com/bphoto/Vx1uM1OfutL1PKy_-NFtTg/ms.jpg
+Address: ["245 W Martin Luther King Jr Blvd","Historic South Central","Los Angeles, CA 90037"]
+Phone: 3232350102
+======================================
+
+The 222 result title: El Cholo
+categories: ["Mexican","mexican"]
+Rating: 3.5
+image URL: https://s3-media1.fl.yelpcdn.com/bphoto/t96WR7u86gGE2pCmcgWUZQ/ms.jpg
+Address: ["1037 S Flower St","Downtown","Los Angeles, CA 90015"]
+Phone: 2137467750
+======================================
+
+The 223 result title: California Pizza Kitchen
+categories: ["Pizza","pizza"]
+Rating: 3.5
+image URL: https://s3-media2.fl.yelpcdn.com/bphoto/kPqukZKuzJXE25X1iTwTuA/ms.jpg
+Address: ["Ronald Tutor Student Campus Center","University of Southern California","University Park","Los Angeles, CA 90089"]
+Phone: 2138213481
+======================================
+
+The 224 result title: Poppy + Rose
+categories: ["Breakfast & Brunch","breakfast_brunch"]
+Rating: 4.0
+image URL: https://s3-media2.fl.yelpcdn.com/bphoto/HixyqaaJ_dPzBgZK2fdauA/ms.jpg
+Address: ["765 Wall St","Downtown","Los Angeles, CA 90014"]
+Phone: 2139957799
+======================================
+
+The 225 result title: Jimmy John's
+categories: ["Sandwiches","sandwiches"]
+Rating: 3.0
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/f2wDSS5Wr5GRzuuS6u0V7g/ms.jpg
+Address: ["2700 S Figueroa St","University Park","Los Angeles, CA 90007"]
+Phone: 2137464760
+======================================
+
+The 226 result title: The New Moon
+categories: ["Chinese","chinese"]
+Rating: 4.0
+image URL: https://s3-media1.fl.yelpcdn.com/bphoto/qHXjTc7YAsTpbB64v7oobg/ms.jpg
+Address: ["102 W 9th St","Downtown","Los Angeles, CA 90015"]
+Phone: 2136240186
+======================================
+
+The 227 result title: The Black Sheep
+categories: ["Asian Fusion","asianfusion"]
+Rating: 4.0
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/7FElXqPNOaKAECp7bEQcwA/ms.jpg
+Address: ["126 E 6th St","Downtown","Los Angeles, CA 90013"]
+Phone: 2136895022
+======================================
+
+The 228 result title: Chico Loco Pupusas
+categories: ["Street Vendors","streetvendors"]
+Rating: 5.0
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/po51yNZzF8HHmuIsSBbPew/ms.jpg
+Address: ["640 E 42nd St","Historic South Central","Los Angeles, CA 90011"]
+Phone: 3233515401
+======================================
+
+The 229 result title: URBNMRKT
+categories: ["Coffee & Tea","coffee"]
+Rating: 3.0
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/m6vp1FEQ7FGxxY6jJBh1BA/ms.jpg
+Address: ["3434 S Grand Ave","Historic South Central","Los Angeles, CA 90007"]
+Phone: 2138218001
+======================================
+
+The 230 result title: 10e
+categories: ["Mediterranean","mediterranean"]
+Rating: 4.0
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/T0Rn7-pCbCjBuXSvfwz1sA/ms.jpg
+Address: ["811 W 7th St","Downtown","Los Angeles, CA 90017"]
+Phone: 2134881096
+======================================
+
+The 231 result title: B S Taqueria
+categories: ["Mexican","mexican"]
+Rating: 4.0
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/tVgxPGplnKJUvSkffe10Fw/ms.jpg
+Address: ["514 W 7th St","Downtown","Los Angeles, CA 90014"]
+Phone: 2136223744
+======================================
+
+The 232 result title: Jack's Family Kitchen
+categories: ["Breakfast & Brunch","breakfast_brunch"]
+Rating: 4.5
+image URL: https://s3-media2.fl.yelpcdn.com/bphoto/jB40iuV1sNADXqVA4oG2Cw/ms.jpg
+Address: ["3965 S Western Ave","Exposition Park","Los Angeles, CA 90062"]
+Phone: 3232965215
+======================================
+
+The 233 result title: Dae Bok Restaurant
+categories: ["Korean","korean"]
+Rating: 3.5
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/g8RGEvvwA0soG5a3shlNhg/ms.jpg
+Address: ["2010 James M Wood Blvd","Westlake","Los Angeles, CA 90006"]
+Phone: 2133866660
+======================================
+
+The 234 result title: Bronzed Aussie
+categories: ["Australian","australian"]
+Rating: 4.5
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/yS2vi4_IKLFTT0zPvp4-7A/ms.jpg
+Address: ["714 S Los Angeles St","Ste 714-A","Downtown","Los Angeles, CA 90014"]
+Phone: 2132430770
+======================================
+
+The 235 result title: Umami Burger
+categories: ["Burgers","burgers"]
+Rating: 3.5
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/zSYkIuJqpCMn7i2yR1IJGw/ms.jpg
+Address: ["852 S Broadway","Downtown","Los Angeles, CA 90015"]
+Phone: 2134138626
+======================================
+
+The 236 result title: Tumby's Pizza
+categories: ["Pizza","pizza"]
+Rating: 4.0
+image URL: https://s3-media1.fl.yelpcdn.com/bphoto/bsFDuEvfM6lSj45qHdStwg/ms.jpg
+Address: ["3567 S Western Ave","Exposition Park","Los Angeles, CA 90018"]
+Phone: 3237350534
+======================================
+
+The 237 result title: Cilantro
+categories: ["Mexican","mexican"]
+Rating: 4.5
+image URL: https://s3-media2.fl.yelpcdn.com/bphoto/EgxFqwMGKv7FlGU6nHDBhw/ms.jpg
+Address: ["1234 Wilshire Blvd","Westlake","Los Angeles, CA 90017"]
+Phone: 2136283111
+======================================
+
+The 238 result title: El Pollo Grande
+categories: ["Mexican","mexican"]
+Rating: 4.5
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/w16BbiqZBY6LJLj2wVIJCg/ms.jpg
+Address: ["1051 W Washington Blvd","Unit G","Pico-Union","Los Angeles, CA 90015"]
+Phone: 2137494573
+======================================
+
+The 239 result title: El Salsabor Restaurant
+categories: ["Salvadoran","salvadoran"]
+Rating: 4.0
+image URL: https://s3-media1.fl.yelpcdn.com/bphoto/wCWe6cMLyVaQ62FfkdMMIQ/ms.jpg
+Address: ["2262 Venice Blvd","Harvard Heights","Los Angeles, CA 90006"]
+Phone: 3237327742
+======================================
+
+The 240 result title: Slurpin' Ramen Bar
+categories: ["Ramen","ramen"]
+Rating: 4.5
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/wHvE0mzCuXCiDelbFbWojw/ms.jpg
+Address: ["3500 W 8th St","Koreatown","Los Angeles, CA 90005"]
+Phone: 2133888607
+======================================
+

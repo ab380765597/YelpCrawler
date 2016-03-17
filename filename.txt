@@ -1,0 +1,140 @@
+The 241 result title: Pellicola Pizzeria
+categories: ["Italian","italian"]
+Rating: 4.0
+image URL: https://s3-media2.fl.yelpcdn.com/bphoto/1-q2BIQfWxNg3PShORDMsg/ms.jpg
+Address: ["421 W 8th St","Downtown","Los Angeles, CA 90014"]
+Phone: 2136148000
+======================================
+The 242 result title: Shayan Express Restaurant
+categories: ["Persian\/Iranian","persian"]
+Rating: 4.5
+image URL: https://s3-media1.fl.yelpcdn.com/bphoto/CXqMMgk6Krqug53gzv5alg/ms.jpg
+Address: ["945 S Wall St","Ste 6","Downtown","Los Angeles, CA 90015"]
+Phone: 2136237000
+======================================
+The 243 result title: LA Chapter
+categories: ["American (New)","newamerican"]
+Rating: 3.5
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/yBZTRN5DLoOa3qdGwPic7A/ms.jpg
+Address: ["927 S Broadway","Downtown","Los Angeles, CA 90015"]
+Phone: 2132359660
+======================================
+The 244 result title: Tom's Jr 3
+categories: ["American (New)","newamerican"]
+Rating: 4.0
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/0ew-OWJMAbSnaYtbhG_JPQ/ms.jpg
+Address: ["500-700 W Martin Luther King Jr Blvd","Exposition Park","Los Angeles, CA 90037"]
+Phone: 2137410997
+======================================
+The 245 result title: Ssam Korean BBQ
+categories: ["Barbeque","bbq"]
+Rating: 4.0
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/s2-At5jijcllSxGVH_K0Yw/ms.jpg
+Address: ["1040 S Western Ave","Harvard Heights","Los Angeles, CA 90006"]
+Phone: 3237379292
+======================================
+The 246 result title: El Asador
+categories: ["Latin American","latin"]
+Rating: 3.0
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/9WsVDqN1FUu6pzTMhnzNmA/ms.jpg
+Address: ["1225 Venice Blvd","Pico-Union","Los Angeles, CA 90006"]
+Phone: 2133878220
+======================================
+The 247 result title: Maya's Kitchen
+categories: ["American (Traditional)","tradamerican"]
+Rating: 5.0
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/1v2UaV6bW3tV56zUYzXnSg/ms.jpg
+Address: ["1061 South Hill Street","Downtown","Los Angeles, CA 90015"]
+Phone: 2135365259
+======================================
+The 248 result title: Oleego By Parks BBQ
+categories: ["Barbeque","bbq"]
+Rating: 4.0
+image URL: https://s3-media1.fl.yelpcdn.com/bphoto/zTWtUSRsZnO67sUSmcltHg/ms.jpg
+Address: ["735 S Figueroa St","Ste 123","Downtown","Los Angeles, CA 90017"]
+Phone: 2136149090
+======================================
+The 249 result title: Nak Won House
+categories: ["Korean","korean"]
+Rating: 3.5
+image URL: https://s3-media1.fl.yelpcdn.com/bphoto/9zfEpLgeyYfzxogMVqIPrg/ms.jpg
+Address: ["1001 S Vermont Ave","Ste 103","Pico-Union","Los Angeles, CA 90006"]
+Phone: 2133888889
+======================================
+The 250 result title: Pizza Next Door
+categories: ["Pizza","pizza"]
+Rating: 4.0
+image URL: https://s3-media1.fl.yelpcdn.com/bphoto/1qtN4ga32PhTdoLRvzCpPg/ms.jpg
+Address: ["806 W 8th St","Unit B","Downtown","Los Angeles, CA 90017"]
+Phone: 2136226595
+======================================
+The 251 result title: Mariscos Chalinos
+categories: ["Mexican","mexican"]
+Rating: 5.0
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/MkGoebsgakHOO0kWYRDQDg/ms.jpg
+Address: ["1289 W Washington Blvd","Pico-Union","Los Angeles, CA 90007"]
+Phone: null
+======================================
+The 252 result title: Mandarin Garden
+categories: ["Chinese","chinese"]
+Rating: 3.5
+image URL: https://s3-media2.fl.yelpcdn.com/bphoto/oDQz9eL3-r08f8Z7kZxvjg/ms.jpg
+Address: ["1001 S Vermont Ave","Ste 106","Pico-Union","Los Angeles, CA 90006"]
+Phone: 2133800075
+======================================
+The 253 result title: Howard's Cafe
+categories: ["Chinese","chinese"]
+Rating: 3.5
+image URL: https://s3-media3.fl.yelpcdn.com/bphoto/gOLUE1VL4fRPJN50XQ0O9A/ms.jpg
+Address: ["1051 S Alvarado St","Pico-Union","Los Angeles, CA 90006"]
+Phone: 2133857991
+======================================
+The 254 result title: Guatemala Restaurant
+categories: ["Latin American","latin"]
+Rating: 4.0
+image URL: https://s3-media1.fl.yelpcdn.com/bphoto/QYH2qhmf1bJQKm0VpflcVQ/ms.jpg
+Address: ["743 S Union Avenue","Westlake","Los Angeles, CA 90017"]
+Phone: 2134834503
+======================================
+The 255 result title: Stafford + Mathis Kitchen
+categories: ["American (New)","newamerican"]
+Rating: 4.0
+image URL: https://s3-media1.fl.yelpcdn.com/bphoto/i4ly0ClEupf18Tx6F6oxLA/ms.jpg
+Address: ["1020 S Figueroa St","Downtown","Los Angeles, CA 90015"]
+Phone: 2137437600
+======================================
+The 256 result title: Yang Ban Sul Lung Tang Restaurant
+categories: ["Korean","korean"]
+Rating: 4.5
+image URL: https://s3-media1.fl.yelpcdn.com/bphoto/RBacPvtQ7Tzv8HSZvFebiA/ms.jpg
+Address: ["716 E 9th Pl","Downtown","Los Angeles, CA 90021"]
+Phone: 2134894640
+======================================
+The 257 result title: Rice Bar
+categories: ["Filipino","filipino"]
+Rating: 4.0
+image URL: https://s3-media2.fl.yelpcdn.com/bphoto/OqC-dZn8FR7RFeMNBps5KQ/ms.jpg
+Address: ["419 W 7th St","Downtown","Los Angeles, CA 90014"]
+Phone: 2138075341
+======================================
+The 258 result title: Tacos El Jefe
+categories: ["Food Trucks","foodtrucks"]
+Rating: 5.0
+image URL: https://s3-media4.fl.yelpcdn.com/bphoto/CPfwd0PkvfnvOAlnesUwAA/ms.jpg
+Address: ["2377 W Pico Blvd","Pico-Union","Los Angeles, CA 90006"]
+Phone: 3233348039
+======================================
+The 259 result title: El Paissa Mexican Grill
+categories: ["Mexican","mexican"]
+Rating: 4.0
+image URL: https://s3-media2.fl.yelpcdn.com/bphoto/F2t0Iswy8CADlS1l0gcUiA/ms.jpg
+Address: ["4092 S Broadway","Historic South Central","Los Angeles, CA 90037"]
+Phone: 3238460499
+======================================
+The 260 result title: Yaki Cafe
+categories: ["Cafes","cafes"]
+Rating: 4.0
+image URL: https://s3-media1.fl.yelpcdn.com/bphoto/UVNE_KGyFL8GTmS0Sc66fw/ms.jpg
+Address: ["113 E 9th St","Downtown","Los Angeles, CA 90015"]
+Phone: 2136279254
+======================================
