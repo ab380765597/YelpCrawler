@@ -62,7 +62,6 @@ public class YelpAPI {
 		request.addQuerystringParameter("term", term);
 		request.addQuerystringParameter("location", location);
 		request.addQuerystringParameter("offset",String.valueOf(offset));
-		//request.addQuerystringParameter("radius_filter", distance);
 		return sendRequestAndGetResponse(request);
 	}
 
@@ -84,11 +83,7 @@ public class YelpAPI {
 			System.exit(1);
 		}
 		JSONArray businesses = (JSONArray) response.get("businesses");
-//		System.out.println(String.format("%s businesses found ...",
-//		businesses.size()));
-//		System.out.println();
 		int size = businesses.size();
-		//PrintWriter out = new PrintWriter("filename.txt");
 		for (int i = 0; i < size; i++ ){
 
 			JSONObject firstBusiness = (JSONObject) businesses.get(i);
@@ -118,14 +113,8 @@ public class YelpAPI {
 			
 			String oneRes = "The " + (i+1+offset)+" result title: "+ bizName+"\r\n"+"categories: "+ cateString +"\r\n"+"Rating: "+rating+"\r\n"+"image URL: "+imageurl+"\r\n"+"Address: "+address+"\r\n"+"Phone: "+phone+"\r\n"+"======================================";
 			System.out.println(oneRes);
-			//String businessResponseJSON = yelpApi
-			//		.searchByBusinessId(firstBusinessID.toString());
-			//System.out.println(businessResponseJSON);
 			System.out.println();
-			//out.println(oneRes);
-			/*try(  PrintWriter out = new PrintWriter( "filename.txt" )  ){
-			    out.println( oneRes );
-			}*/
+			
 			try(PrintWriter out = new PrintWriter(new BufferedWriter(new FileWriter("myfile.txt", true)))) {
 			    out.println(oneRes + LINE_SEPARATOR);
 			}catch (IOException e) {
@@ -161,10 +150,6 @@ public class YelpAPI {
 		System.out.println(term+" in nearby "+postcode);
 		int count1 = queryAPI(yelpApi, DEFAULT_TERM, postcode, four_blocks);
 		System.out.println("four_blocks: "+count1);
-		/*int count2 = queryAPI(yelpApi, DEFAULT_TERM, location, one_mile);
-		System.out.println("One_mile: "+count2);
-		int count3 = queryAPI(yelpApi, DEFAULT_TERM, location, three_mile);
-		System.out.println("Three_mile: "+count3);*/
 		System.out.println();
 	}
 
