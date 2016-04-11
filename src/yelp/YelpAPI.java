@@ -17,12 +17,22 @@ import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
 import org.json.simple.parser.ParseException;
 
+import org.apache.hadoop.conf.Configured;
+import org.apache.hadoop.util.Tool;
+import org.apache.hadoop.conf.Configuration;
+import org.apache.hadoop.fs.FileSystem;
+import org.apache.hadoop.fs.Path;
+import org.apache.hadoop.io.IOUtils;
+import org.apache.hadoop.util.ToolRunner;
+
+import redis.clients.jedis.Jedis;
+
 public class YelpAPI {
 
-	private static final String CONSUMER_KEY = "";
-	private static final String CONSUMER_SECRET = "";
-	private static final String TOKEN = "";
-	private static final String TOKEN_SECRET = "";
+	private static final String CONSUMER_KEY = "yOyAtmdgzlH4VOjLMEVTgA";
+	private static final String CONSUMER_SECRET = "751rV5V3igg9a1fKV0uJjPv79aU";
+	private static final String TOKEN = "u74dbygtK_NSp0qo1B58kqeyEQ0gU6Kh";
+	private static final String TOKEN_SECRET = "pcJT4tDU3jMoCUpG6gfnTsGj1QI";
 
 	OAuthService service;
 	Token accessToken;
@@ -62,6 +72,7 @@ public class YelpAPI {
 		request.addQuerystringParameter("term", term);
 		request.addQuerystringParameter("location", location);
 		request.addQuerystringParameter("offset",String.valueOf(offset));
+		//request.addQuerystringParameter("radius_filter", distance);
 		return sendRequestAndGetResponse(request);
 	}
 
@@ -71,7 +82,7 @@ public class YelpAPI {
 		return sendRequestAndGetResponse(request);
 	}
 	
-	private static int jsonParser(YelpAPI yelpApi, String searchResponseJSON, int offset) throws FileNotFoundException{
+	private static int jsonParser(YelpAPI yelpApi, String searchResponseJSON, int offset) throws IOException{
 		
 		JSONParser parser = new JSONParser();
 		JSONObject response = null;
@@ -82,8 +93,16 @@ public class YelpAPI {
 			System.out.println(searchResponseJSON);
 			System.exit(1);
 		}
+		/*Configuration conf = new Configuration();
+		conf.addResource("/etc/hadoop/conf/core-site.xml");
+		conf.addResource("/etc/hadoop/conf/hdfs-site.xml");
+		conf.set("fs.defaultFS", "hdfs://quickstart.cloudera:8020/");
+		conf.set("hadoop.job.ugi", "cloudera");
+		conf.set("fs.hdfs.impl", org.apache.hadoop.hdfs.DistributedFileSystem.class.getName());
+		FileSystem fs = FileSystem.get(conf); */
 		JSONArray businesses = (JSONArray) response.get("businesses");
 		int size = businesses.size();
+		//PrintWriter out = new PrintWriter("filename.txt");
 		for (int i = 0; i < size; i++ ){
 
 			JSONObject firstBusiness = (JSONObject) businesses.get(i);
@@ -92,9 +111,11 @@ public class YelpAPI {
 			JSONArray cate = (JSONArray)firstBusiness.get("categories");
 			String cateString = cate.get(0).toString();
 			String rating = firstBusiness.get("rating").toString();
-			String imageurl = null;
-			if(firstBusiness.get("image_url")!=null){
-				imageurl = firstBusiness.get("image_url").toString();
+			String isClose = firstBusiness.get("is_closed").toString();
+			String reviewCount = firstBusiness.get("review_count").toString();
+			String url = null;
+			if(firstBusiness.get("url")!=null){
+				url = firstBusiness.get("url").toString();
 			}
 			JSONObject location = (JSONObject) firstBusiness.get("location");
 			String address = location.get("display_address").toString();
@@ -102,21 +123,22 @@ public class YelpAPI {
 			if(firstBusiness.get("phone")!=null){
 				 phone = firstBusiness.get("phone").toString();
 			}
-			//System.out.println(String.format("The \"%s\" result \"%s\" name \"%s\"",i+1+offset, firstBusinessID, bizName));
-			/*System.out.println("The " + (i+1+offset)+" result title: "+ bizName);
-			System.out.println("categories: "+ cate.get(0).toString());
-			System.out.println("Rating: "+rating);
-			System.out.println("image URL: "+imageurl);
-			System.out.println("Address: "+address);
-			System.out.println("Phone: "+phone);
-			System.out.println("======================================");*/
+			String city=location.get("city").toString();
+			String post_code = null;
+			if(firstBusiness.get("postal_code")!=null){
+				post_code = location.get("postal_code").toString();
+			}
+
 			
-			String oneRes = "The " + (i+1+offset)+" result title: "+ bizName+"\r\n"+"categories: "+ cateString +"\r\n"+"Rating: "+rating+"\r\n"+"image URL: "+imageurl+"\r\n"+"Address: "+address+"\r\n"+"Phone: "+phone+"\r\n"+"======================================";
-			System.out.println(oneRes);
+			
+			
+			String oneRes = "The " + (i+1+offset)+" result title: "+ bizName+"\r\n"+"categories: "+ cateString +"\r\n"+"Rating: "+rating+"\r\n"+"URL: "+url+"\r\n"+"Address: "+address+"\r\n"+"Phone: "+phone+"\r\n"+"======================================";
+			
+			String jsonObj = "{\"title\": "+"\""+bizName+"\""+", "+"\"categories\": " + cateString + ", "+"\"rating\": " + rating + ", "+"\"url\": "+"\""+url+"\""+", "+"\"address\": "+ address+ ", "+"\"phone\": "+"\""+phone+"\""+ ", "+"\"is_closed\": "+"\""+isClose+"\""+ ", "+"\"review_count\": "+reviewCount+ ", "+"\"city\": "+"\""+city+"\""+ ", "+"\"postal_code\": "+"\""+post_code+"\""+"}";
+			System.out.print(jsonObj);
 			System.out.println();
-			
-			try(PrintWriter out = new PrintWriter(new BufferedWriter(new FileWriter("myfile.txt", true)))) {
-			    out.println(oneRes + LINE_SEPARATOR);
+			try(PrintWriter out = new PrintWriter(new BufferedWriter(new FileWriter("myfileObj.json", true)))) {
+			    out.println(jsonObj);
 			}catch (IOException e) {
 			    //exception handling left as an exercise for the reader
 			}
@@ -125,7 +147,7 @@ public class YelpAPI {
 		return size;
 	}
 
-	private static int queryAPI(YelpAPI yelpApi, String term, String postcode, String distance) throws FileNotFoundException {
+	private static int queryAPI(YelpAPI yelpApi, String term, String postcode, String distance) throws IOException {
 		
 		int offset = 0;
 		int count = 0;
@@ -145,15 +167,19 @@ public class YelpAPI {
 		}
 	}
 	
-	private static void query (String postcode, YelpAPI yelpApi, String term) throws FileNotFoundException{
+	private static void query (String postcode, YelpAPI yelpApi, String term) throws IOException{
 		
 		System.out.println(term+" in nearby "+postcode);
 		int count1 = queryAPI(yelpApi, DEFAULT_TERM, postcode, four_blocks);
 		System.out.println("four_blocks: "+count1);
+		/*int count2 = queryAPI(yelpApi, DEFAULT_TERM, location, one_mile);
+		System.out.println("One_mile: "+count2);
+		int count3 = queryAPI(yelpApi, DEFAULT_TERM, location, three_mile);
+		System.out.println("Three_mile: "+count3);*/
 		System.out.println();
 	}
 
-	public static void main(String[] args) throws FileNotFoundException {
+	public static void main(String[] args) throws IOException {
 
 		YelpAPI yelpApi = new YelpAPI(CONSUMER_KEY, CONSUMER_SECRET, TOKEN,
 				TOKEN_SECRET);
