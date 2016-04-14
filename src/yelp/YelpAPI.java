@@ -29,10 +29,10 @@ import redis.clients.jedis.Jedis;
 
 public class YelpAPI {
 
-	private static final String CONSUMER_KEY = "yOyAtmdgzlH4VOjLMEVTgA";
-	private static final String CONSUMER_SECRET = "751rV5V3igg9a1fKV0uJjPv79aU";
-	private static final String TOKEN = "u74dbygtK_NSp0qo1B58kqeyEQ0gU6Kh";
-	private static final String TOKEN_SECRET = "pcJT4tDU3jMoCUpG6gfnTsGj1QI";
+	private static final String CONSUMER_KEY = " Your consumer key";
+	private static final String CONSUMER_SECRET = "Your consumer secret ";
+	private static final String TOKEN = " Your token";
+	private static final String TOKEN_SECRET = " your secret token";
 
 	OAuthService service;
 	Token accessToken;
