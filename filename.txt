@@ -1,6 +1,6 @@
 The 241 result title: Pellicola Pizzeria
 categories: ["Italian","italian"]
-Rating: 4.0
+Rating: 4.0 
 image URL: https://s3-media2.fl.yelpcdn.com/bphoto/1-q2BIQfWxNg3PShORDMsg/ms.jpg
 Address: ["421 W 8th St","Downtown","Los Angeles, CA 90014"]
 Phone: 2136148000
