@@ -129,7 +129,7 @@ public class YelpAPI {
 			String jsonObj = "{\"title\": "+"\""+bizName+"\""+", "+"\"categories\": " + cateString + ", "+"\"rating\": " + rating + ", "+"\"url\": "+"\""+url+"\""+", "+"\"address\": "+ address+ ", "+"\"phone\": "+"\""+phone+"\""+ ", "+"\"is_closed\": "+"\""+isClose+"\""+ ", "+"\"review_count\": "+reviewCount+ ", "+"\"city\": "+"\""+city+"\""+ ", "+"\"postal_code\": "+"\""+post_code+"\""+"}";
 			System.out.print(jsonObj);
 			System.out.println();
-			/* Using try and catch to write into files one item each time*/
+			/* Using try and catch to write into file one item each time*/
 			try(PrintWriter out = new PrintWriter(new BufferedWriter(new FileWriter("myfileObj.json", true)))) {
 			    out.println(jsonObj);
 			}catch (IOException e) {
