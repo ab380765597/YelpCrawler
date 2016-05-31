@@ -92,7 +92,10 @@ public class YelpAPI {
 			System.out.println(searchResponseJSON);
 			System.exit(1);
 		}
-		/* Get JSON results from Yelp. Deserialize and extract the useful information */
+		/* 
+		Get JSON results from Yelp. Deserialize and extract the useful information
+		JSON return type ref: https://www.yelp.com/developers/documentation/v2/search_api
+		*/
 		JSONArray businesses = (JSONArray) response.get("businesses");
 		int size = businesses.size();
 		
