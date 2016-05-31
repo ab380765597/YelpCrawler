@@ -133,7 +133,7 @@ public class YelpAPI {
 			try(PrintWriter out = new PrintWriter(new BufferedWriter(new FileWriter("myfileObj.json", true)))) {
 			    out.println(jsonObj);
 			}catch (IOException e) {
-			    //exception handling left as an exercise for the reader
+			    //exception handling left
 			}
 		}
 		return size;
@@ -162,7 +162,7 @@ public class YelpAPI {
 	private static void query (String postcode, YelpAPI yelpApi, String term) throws IOException{
 		
 		System.out.println(term+" in nearby "+postcode);
-		int count1 = queryAPI(yelpApi, DEFAULT_TERM, postcode, four_blocks);
+		int count1 = queryAPI(yelpApi, term, postcode, four_blocks);
 		System.out.println("four_blocks: "+count1);
 		System.out.println();
 	}
