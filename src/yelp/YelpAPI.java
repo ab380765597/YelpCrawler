@@ -136,7 +136,8 @@ public class YelpAPI {
 			try(PrintWriter out = new PrintWriter(new BufferedWriter(new FileWriter("myfileObj.json", true)))) {
 			    out.println(jsonObj);
 			}catch (IOException e) {
-			    //exception handling left
+			    //exception handling
+			    System.out.println("Error, can not find the file!");
 			}
 		}
 		return size;
